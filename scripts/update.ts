@@ -1,15 +1,23 @@
-async function getGithubEmojis(): Promise<(Map<string, string>)> {
-	const json = await fetch("https://api.github.com/emojis").then(r => r.json());
+interface EmojiSuggestion {
+	character: string;
+	description: string;
+}
 
-	const map: Map<string,string> = new Map()
+async function getGithubEmojis(): Promise<EmojiSuggestion[]> {
+	const json = await fetch('https://api.github.com/emojis').then(r => r.json());
+
+	const emojiSuggestions: EmojiSuggestion[] = []
 	for (const shortCode in json) {
 		const emojiURL = json[shortCode];
 
 		if (!emojiURL.includes('/unicode')) continue;
-		map.set(shortCode, parseEmoji(emojiURL));
+		emojiSuggestions.push({
+			character: parseEmoji(emojiURL),
+			description: `:${shortCode}:`
+		});
 	}
 
-	return map
+	return emojiSuggestions;
 }
 
 function parseEmoji(e: string) {
@@ -19,4 +27,6 @@ function parseEmoji(e: string) {
 		.map(codePoint => String.fromCodePoint(Number.parseInt(codePoint, 16)))
 		.join('\u200d');
 }
+
+Deno.writeTextFileSync('src/emoji.txt', JSON.stringify(await getGithubEmojis(), null, 2));
 
