@@ -1,0 +1,49 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# This workflow will install Deno and run tests across stable and nightly builds on Windows, Ubuntu and macOS.
+# For more information see: https://github.com/denolib/setup-deno
+
+name: Update emoji
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [master]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v2
+      - name: Setup Deno
+        uses: denolib/setup-deno@v2
+        with:
+          deno-version: v1.x
+      - name: Fetch emoji list
+        run: npm run update
+      - name: Commit changes
+        run: |
+          git diff --name-only --exit-code && exit 0
+          git add src/emoji.json
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(update): Emoji list" --author="yunree <contrib@yunree.net>"
+          git push -qf "https://${{ secrets.GITHUB_TOKEN }}@github.com/yunree/coc-emoji-shortcodes.git" HEAD:actions-emoji-update
+      - name: Create PR
+        uses: actions/github-script@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const {owner, repo} = context.repo;
+            const head = 'actions-emoji-update';
+            const title = 'Update emoji list';
+            const pullRequests = await github.pulls.list({ owner, repo, head: head, state: 'open' });
+            if (pullRequests.status === 200 && pullRequests.data.length === 0)
+                await github.pulls.create({ owner, repo, head: head, title, base: 'master' });
+
