@@ -1,6 +1,6 @@
 {
 	"name": "coc-emoji-shortcodes",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "emoji' shortcodes source for coc.nvim",
 	"main": "src/index.js",
 	"scripts": {
