@@ -17,7 +17,7 @@
 		"shortcodes"
 	],
 	"author": "yunree <contrib@yunree.net>",
-	"license": "MIT",
+	"license": "BSD-2-Clause",
 	"bugs": {
 		"url": "https://github.com/yunree/coc-emoji-shortcodes/issues"
 	},
