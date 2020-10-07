@@ -1,0 +1,7122 @@
+[
+  {
+    "character": "💯",
+    "description": ":100:"
+  },
+  {
+    "character": "🔢",
+    "description": ":1234:"
+  },
+  {
+    "character": "👍",
+    "description": ":+1:"
+  },
+  {
+    "character": "👎",
+    "description": ":-1:"
+  },
+  {
+    "character": "🥇",
+    "description": ":1st_place_medal:"
+  },
+  {
+    "character": "🥈",
+    "description": ":2nd_place_medal:"
+  },
+  {
+    "character": "🥉",
+    "description": ":3rd_place_medal:"
+  },
+  {
+    "character": "🎱",
+    "description": ":8ball:"
+  },
+  {
+    "character": "🅰",
+    "description": ":a:"
+  },
+  {
+    "character": "🆎",
+    "description": ":ab:"
+  },
+  {
+    "character": "🧮",
+    "description": ":abacus:"
+  },
+  {
+    "character": "🔤",
+    "description": ":abc:"
+  },
+  {
+    "character": "🔡",
+    "description": ":abcd:"
+  },
+  {
+    "character": "🉑",
+    "description": ":accept:"
+  },
+  {
+    "character": "🩹",
+    "description": ":adhesive_bandage:"
+  },
+  {
+    "character": "🧑",
+    "description": ":adult:"
+  },
+  {
+    "character": "🚡",
+    "description": ":aerial_tramway:"
+  },
+  {
+    "character": "🇦‍🇫",
+    "description": ":afghanistan:"
+  },
+  {
+    "character": "✈",
+    "description": ":airplane:"
+  },
+  {
+    "character": "🇦‍🇽",
+    "description": ":aland_islands:"
+  },
+  {
+    "character": "⏰",
+    "description": ":alarm_clock:"
+  },
+  {
+    "character": "🇦‍🇱",
+    "description": ":albania:"
+  },
+  {
+    "character": "⚗",
+    "description": ":alembic:"
+  },
+  {
+    "character": "🇩‍🇿",
+    "description": ":algeria:"
+  },
+  {
+    "character": "👽",
+    "description": ":alien:"
+  },
+  {
+    "character": "🚑",
+    "description": ":ambulance:"
+  },
+  {
+    "character": "🇦‍🇸",
+    "description": ":american_samoa:"
+  },
+  {
+    "character": "🏺",
+    "description": ":amphora:"
+  },
+  {
+    "character": "⚓",
+    "description": ":anchor:"
+  },
+  {
+    "character": "🇦‍🇩",
+    "description": ":andorra:"
+  },
+  {
+    "character": "👼",
+    "description": ":angel:"
+  },
+  {
+    "character": "💢",
+    "description": ":anger:"
+  },
+  {
+    "character": "🇦‍🇴",
+    "description": ":angola:"
+  },
+  {
+    "character": "😠",
+    "description": ":angry:"
+  },
+  {
+    "character": "🇦‍🇮",
+    "description": ":anguilla:"
+  },
+  {
+    "character": "😧",
+    "description": ":anguished:"
+  },
+  {
+    "character": "🐜",
+    "description": ":ant:"
+  },
+  {
+    "character": "🇦‍🇶",
+    "description": ":antarctica:"
+  },
+  {
+    "character": "🇦‍🇬",
+    "description": ":antigua_barbuda:"
+  },
+  {
+    "character": "🍎",
+    "description": ":apple:"
+  },
+  {
+    "character": "♒",
+    "description": ":aquarius:"
+  },
+  {
+    "character": "🇦‍🇷",
+    "description": ":argentina:"
+  },
+  {
+    "character": "♈",
+    "description": ":aries:"
+  },
+  {
+    "character": "🇦‍🇲",
+    "description": ":armenia:"
+  },
+  {
+    "character": "◀",
+    "description": ":arrow_backward:"
+  },
+  {
+    "character": "⏬",
+    "description": ":arrow_double_down:"
+  },
+  {
+    "character": "⏫",
+    "description": ":arrow_double_up:"
+  },
+  {
+    "character": "⬇",
+    "description": ":arrow_down:"
+  },
+  {
+    "character": "🔽",
+    "description": ":arrow_down_small:"
+  },
+  {
+    "character": "▶",
+    "description": ":arrow_forward:"
+  },
+  {
+    "character": "⤵",
+    "description": ":arrow_heading_down:"
+  },
+  {
+    "character": "⤴",
+    "description": ":arrow_heading_up:"
+  },
+  {
+    "character": "⬅",
+    "description": ":arrow_left:"
+  },
+  {
+    "character": "↙",
+    "description": ":arrow_lower_left:"
+  },
+  {
+    "character": "↘",
+    "description": ":arrow_lower_right:"
+  },
+  {
+    "character": "➡",
+    "description": ":arrow_right:"
+  },
+  {
+    "character": "↪",
+    "description": ":arrow_right_hook:"
+  },
+  {
+    "character": "⬆",
+    "description": ":arrow_up:"
+  },
+  {
+    "character": "↕",
+    "description": ":arrow_up_down:"
+  },
+  {
+    "character": "🔼",
+    "description": ":arrow_up_small:"
+  },
+  {
+    "character": "↖",
+    "description": ":arrow_upper_left:"
+  },
+  {
+    "character": "↗",
+    "description": ":arrow_upper_right:"
+  },
+  {
+    "character": "🔃",
+    "description": ":arrows_clockwise:"
+  },
+  {
+    "character": "🔄",
+    "description": ":arrows_counterclockwise:"
+  },
+  {
+    "character": "🎨",
+    "description": ":art:"
+  },
+  {
+    "character": "🚛",
+    "description": ":articulated_lorry:"
+  },
+  {
+    "character": "🛰",
+    "description": ":artificial_satellite:"
+  },
+  {
+    "character": "🧑‍🎨",
+    "description": ":artist:"
+  },
+  {
+    "character": "🇦‍🇼",
+    "description": ":aruba:"
+  },
+  {
+    "character": "🇦‍🇨",
+    "description": ":ascension_island:"
+  },
+  {
+    "character": "*‍⃣",
+    "description": ":asterisk:"
+  },
+  {
+    "character": "😲",
+    "description": ":astonished:"
+  },
+  {
+    "character": "🧑‍🚀",
+    "description": ":astronaut:"
+  },
+  {
+    "character": "👟",
+    "description": ":athletic_shoe:"
+  },
+  {
+    "character": "🏧",
+    "description": ":atm:"
+  },
+  {
+    "character": "⚛",
+    "description": ":atom_symbol:"
+  },
+  {
+    "character": "🇦‍🇺",
+    "description": ":australia:"
+  },
+  {
+    "character": "🇦‍🇹",
+    "description": ":austria:"
+  },
+  {
+    "character": "🛺",
+    "description": ":auto_rickshaw:"
+  },
+  {
+    "character": "🥑",
+    "description": ":avocado:"
+  },
+  {
+    "character": "🪓",
+    "description": ":axe:"
+  },
+  {
+    "character": "🇦‍🇿",
+    "description": ":azerbaijan:"
+  },
+  {
+    "character": "🅱",
+    "description": ":b:"
+  },
+  {
+    "character": "👶",
+    "description": ":baby:"
+  },
+  {
+    "character": "🍼",
+    "description": ":baby_bottle:"
+  },
+  {
+    "character": "🐤",
+    "description": ":baby_chick:"
+  },
+  {
+    "character": "🚼",
+    "description": ":baby_symbol:"
+  },
+  {
+    "character": "🔙",
+    "description": ":back:"
+  },
+  {
+    "character": "🥓",
+    "description": ":bacon:"
+  },
+  {
+    "character": "🦡",
+    "description": ":badger:"
+  },
+  {
+    "character": "🏸",
+    "description": ":badminton:"
+  },
+  {
+    "character": "🥯",
+    "description": ":bagel:"
+  },
+  {
+    "character": "🛄",
+    "description": ":baggage_claim:"
+  },
+  {
+    "character": "🥖",
+    "description": ":baguette_bread:"
+  },
+  {
+    "character": "🇧‍🇸",
+    "description": ":bahamas:"
+  },
+  {
+    "character": "🇧‍🇭",
+    "description": ":bahrain:"
+  },
+  {
+    "character": "⚖",
+    "description": ":balance_scale:"
+  },
+  {
+    "character": "👨‍🦲",
+    "description": ":bald_man:"
+  },
+  {
+    "character": "👩‍🦲",
+    "description": ":bald_woman:"
+  },
+  {
+    "character": "🩰",
+    "description": ":ballet_shoes:"
+  },
+  {
+    "character": "🎈",
+    "description": ":balloon:"
+  },
+  {
+    "character": "🗳",
+    "description": ":ballot_box:"
+  },
+  {
+    "character": "☑",
+    "description": ":ballot_box_with_check:"
+  },
+  {
+    "character": "🎍",
+    "description": ":bamboo:"
+  },
+  {
+    "character": "🍌",
+    "description": ":banana:"
+  },
+  {
+    "character": "‼",
+    "description": ":bangbang:"
+  },
+  {
+    "character": "🇧‍🇩",
+    "description": ":bangladesh:"
+  },
+  {
+    "character": "🪕",
+    "description": ":banjo:"
+  },
+  {
+    "character": "🏦",
+    "description": ":bank:"
+  },
+  {
+    "character": "📊",
+    "description": ":bar_chart:"
+  },
+  {
+    "character": "🇧‍🇧",
+    "description": ":barbados:"
+  },
+  {
+    "character": "💈",
+    "description": ":barber:"
+  },
+  {
+    "character": "⚾",
+    "description": ":baseball:"
+  },
+  {
+    "character": "🧺",
+    "description": ":basket:"
+  },
+  {
+    "character": "🏀",
+    "description": ":basketball:"
+  },
+  {
+    "character": "⛹‍♂",
+    "description": ":basketball_man:"
+  },
+  {
+    "character": "⛹‍♀",
+    "description": ":basketball_woman:"
+  },
+  {
+    "character": "🦇",
+    "description": ":bat:"
+  },
+  {
+    "character": "🛀",
+    "description": ":bath:"
+  },
+  {
+    "character": "🛁",
+    "description": ":bathtub:"
+  },
+  {
+    "character": "🔋",
+    "description": ":battery:"
+  },
+  {
+    "character": "🏖",
+    "description": ":beach_umbrella:"
+  },
+  {
+    "character": "🐻",
+    "description": ":bear:"
+  },
+  {
+    "character": "🧔",
+    "description": ":bearded_person:"
+  },
+  {
+    "character": "🛏",
+    "description": ":bed:"
+  },
+  {
+    "character": "🐝",
+    "description": ":bee:"
+  },
+  {
+    "character": "🍺",
+    "description": ":beer:"
+  },
+  {
+    "character": "🍻",
+    "description": ":beers:"
+  },
+  {
+    "character": "🐞",
+    "description": ":beetle:"
+  },
+  {
+    "character": "🔰",
+    "description": ":beginner:"
+  },
+  {
+    "character": "🇧‍🇾",
+    "description": ":belarus:"
+  },
+  {
+    "character": "🇧‍🇪",
+    "description": ":belgium:"
+  },
+  {
+    "character": "🇧‍🇿",
+    "description": ":belize:"
+  },
+  {
+    "character": "🔔",
+    "description": ":bell:"
+  },
+  {
+    "character": "🛎",
+    "description": ":bellhop_bell:"
+  },
+  {
+    "character": "🇧‍🇯",
+    "description": ":benin:"
+  },
+  {
+    "character": "🍱",
+    "description": ":bento:"
+  },
+  {
+    "character": "🇧‍🇲",
+    "description": ":bermuda:"
+  },
+  {
+    "character": "🧃",
+    "description": ":beverage_box:"
+  },
+  {
+    "character": "🇧‍🇹",
+    "description": ":bhutan:"
+  },
+  {
+    "character": "🚴",
+    "description": ":bicyclist:"
+  },
+  {
+    "character": "🚲",
+    "description": ":bike:"
+  },
+  {
+    "character": "🚴‍♂",
+    "description": ":biking_man:"
+  },
+  {
+    "character": "🚴‍♀",
+    "description": ":biking_woman:"
+  },
+  {
+    "character": "👙",
+    "description": ":bikini:"
+  },
+  {
+    "character": "🧢",
+    "description": ":billed_cap:"
+  },
+  {
+    "character": "☣",
+    "description": ":biohazard:"
+  },
+  {
+    "character": "🐦",
+    "description": ":bird:"
+  },
+  {
+    "character": "🎂",
+    "description": ":birthday:"
+  },
+  {
+    "character": "⚫",
+    "description": ":black_circle:"
+  },
+  {
+    "character": "🏴",
+    "description": ":black_flag:"
+  },
+  {
+    "character": "🖤",
+    "description": ":black_heart:"
+  },
+  {
+    "character": "🃏",
+    "description": ":black_joker:"
+  },
+  {
+    "character": "⬛",
+    "description": ":black_large_square:"
+  },
+  {
+    "character": "◾",
+    "description": ":black_medium_small_square:"
+  },
+  {
+    "character": "◼",
+    "description": ":black_medium_square:"
+  },
+  {
+    "character": "✒",
+    "description": ":black_nib:"
+  },
+  {
+    "character": "▪",
+    "description": ":black_small_square:"
+  },
+  {
+    "character": "🔲",
+    "description": ":black_square_button:"
+  },
+  {
+    "character": "👱‍♂",
+    "description": ":blond_haired_man:"
+  },
+  {
+    "character": "👱",
+    "description": ":blond_haired_person:"
+  },
+  {
+    "character": "👱‍♀",
+    "description": ":blond_haired_woman:"
+  },
+  {
+    "character": "👱‍♀",
+    "description": ":blonde_woman:"
+  },
+  {
+    "character": "🌼",
+    "description": ":blossom:"
+  },
+  {
+    "character": "🐡",
+    "description": ":blowfish:"
+  },
+  {
+    "character": "📘",
+    "description": ":blue_book:"
+  },
+  {
+    "character": "🚙",
+    "description": ":blue_car:"
+  },
+  {
+    "character": "💙",
+    "description": ":blue_heart:"
+  },
+  {
+    "character": "🟦",
+    "description": ":blue_square:"
+  },
+  {
+    "character": "😊",
+    "description": ":blush:"
+  },
+  {
+    "character": "🐗",
+    "description": ":boar:"
+  },
+  {
+    "character": "⛵",
+    "description": ":boat:"
+  },
+  {
+    "character": "🇧‍🇴",
+    "description": ":bolivia:"
+  },
+  {
+    "character": "💣",
+    "description": ":bomb:"
+  },
+  {
+    "character": "🦴",
+    "description": ":bone:"
+  },
+  {
+    "character": "📖",
+    "description": ":book:"
+  },
+  {
+    "character": "🔖",
+    "description": ":bookmark:"
+  },
+  {
+    "character": "📑",
+    "description": ":bookmark_tabs:"
+  },
+  {
+    "character": "📚",
+    "description": ":books:"
+  },
+  {
+    "character": "💥",
+    "description": ":boom:"
+  },
+  {
+    "character": "👢",
+    "description": ":boot:"
+  },
+  {
+    "character": "🇧‍🇦",
+    "description": ":bosnia_herzegovina:"
+  },
+  {
+    "character": "🇧‍🇼",
+    "description": ":botswana:"
+  },
+  {
+    "character": "⛹‍♂",
+    "description": ":bouncing_ball_man:"
+  },
+  {
+    "character": "⛹",
+    "description": ":bouncing_ball_person:"
+  },
+  {
+    "character": "⛹‍♀",
+    "description": ":bouncing_ball_woman:"
+  },
+  {
+    "character": "💐",
+    "description": ":bouquet:"
+  },
+  {
+    "character": "🇧‍🇻",
+    "description": ":bouvet_island:"
+  },
+  {
+    "character": "🙇",
+    "description": ":bow:"
+  },
+  {
+    "character": "🏹",
+    "description": ":bow_and_arrow:"
+  },
+  {
+    "character": "🙇‍♂",
+    "description": ":bowing_man:"
+  },
+  {
+    "character": "🙇‍♀",
+    "description": ":bowing_woman:"
+  },
+  {
+    "character": "🥣",
+    "description": ":bowl_with_spoon:"
+  },
+  {
+    "character": "🎳",
+    "description": ":bowling:"
+  },
+  {
+    "character": "🥊",
+    "description": ":boxing_glove:"
+  },
+  {
+    "character": "👦",
+    "description": ":boy:"
+  },
+  {
+    "character": "🧠",
+    "description": ":brain:"
+  },
+  {
+    "character": "🇧‍🇷",
+    "description": ":brazil:"
+  },
+  {
+    "character": "🍞",
+    "description": ":bread:"
+  },
+  {
+    "character": "🤱",
+    "description": ":breast_feeding:"
+  },
+  {
+    "character": "🧱",
+    "description": ":bricks:"
+  },
+  {
+    "character": "👰",
+    "description": ":bride_with_veil:"
+  },
+  {
+    "character": "🌉",
+    "description": ":bridge_at_night:"
+  },
+  {
+    "character": "💼",
+    "description": ":briefcase:"
+  },
+  {
+    "character": "🇮‍🇴",
+    "description": ":british_indian_ocean_territory:"
+  },
+  {
+    "character": "🇻‍🇬",
+    "description": ":british_virgin_islands:"
+  },
+  {
+    "character": "🥦",
+    "description": ":broccoli:"
+  },
+  {
+    "character": "💔",
+    "description": ":broken_heart:"
+  },
+  {
+    "character": "🧹",
+    "description": ":broom:"
+  },
+  {
+    "character": "🟤",
+    "description": ":brown_circle:"
+  },
+  {
+    "character": "🤎",
+    "description": ":brown_heart:"
+  },
+  {
+    "character": "🟫",
+    "description": ":brown_square:"
+  },
+  {
+    "character": "🇧‍🇳",
+    "description": ":brunei:"
+  },
+  {
+    "character": "🐛",
+    "description": ":bug:"
+  },
+  {
+    "character": "🏗",
+    "description": ":building_construction:"
+  },
+  {
+    "character": "💡",
+    "description": ":bulb:"
+  },
+  {
+    "character": "🇧‍🇬",
+    "description": ":bulgaria:"
+  },
+  {
+    "character": "🚅",
+    "description": ":bullettrain_front:"
+  },
+  {
+    "character": "🚄",
+    "description": ":bullettrain_side:"
+  },
+  {
+    "character": "🇧‍🇫",
+    "description": ":burkina_faso:"
+  },
+  {
+    "character": "🌯",
+    "description": ":burrito:"
+  },
+  {
+    "character": "🇧‍🇮",
+    "description": ":burundi:"
+  },
+  {
+    "character": "🚌",
+    "description": ":bus:"
+  },
+  {
+    "character": "🕴",
+    "description": ":business_suit_levitating:"
+  },
+  {
+    "character": "🚏",
+    "description": ":busstop:"
+  },
+  {
+    "character": "👤",
+    "description": ":bust_in_silhouette:"
+  },
+  {
+    "character": "👥",
+    "description": ":busts_in_silhouette:"
+  },
+  {
+    "character": "🧈",
+    "description": ":butter:"
+  },
+  {
+    "character": "🦋",
+    "description": ":butterfly:"
+  },
+  {
+    "character": "🌵",
+    "description": ":cactus:"
+  },
+  {
+    "character": "🍰",
+    "description": ":cake:"
+  },
+  {
+    "character": "📆",
+    "description": ":calendar:"
+  },
+  {
+    "character": "🤙",
+    "description": ":call_me_hand:"
+  },
+  {
+    "character": "📲",
+    "description": ":calling:"
+  },
+  {
+    "character": "🇰‍🇭",
+    "description": ":cambodia:"
+  },
+  {
+    "character": "🐫",
+    "description": ":camel:"
+  },
+  {
+    "character": "📷",
+    "description": ":camera:"
+  },
+  {
+    "character": "📸",
+    "description": ":camera_flash:"
+  },
+  {
+    "character": "🇨‍🇲",
+    "description": ":cameroon:"
+  },
+  {
+    "character": "🏕",
+    "description": ":camping:"
+  },
+  {
+    "character": "🇨‍🇦",
+    "description": ":canada:"
+  },
+  {
+    "character": "🇮‍🇨",
+    "description": ":canary_islands:"
+  },
+  {
+    "character": "♋",
+    "description": ":cancer:"
+  },
+  {
+    "character": "🕯",
+    "description": ":candle:"
+  },
+  {
+    "character": "🍬",
+    "description": ":candy:"
+  },
+  {
+    "character": "🥫",
+    "description": ":canned_food:"
+  },
+  {
+    "character": "🛶",
+    "description": ":canoe:"
+  },
+  {
+    "character": "🇨‍🇻",
+    "description": ":cape_verde:"
+  },
+  {
+    "character": "🔠",
+    "description": ":capital_abcd:"
+  },
+  {
+    "character": "♑",
+    "description": ":capricorn:"
+  },
+  {
+    "character": "🚗",
+    "description": ":car:"
+  },
+  {
+    "character": "🗃",
+    "description": ":card_file_box:"
+  },
+  {
+    "character": "📇",
+    "description": ":card_index:"
+  },
+  {
+    "character": "🗂",
+    "description": ":card_index_dividers:"
+  },
+  {
+    "character": "🇧‍🇶",
+    "description": ":caribbean_netherlands:"
+  },
+  {
+    "character": "🎠",
+    "description": ":carousel_horse:"
+  },
+  {
+    "character": "🥕",
+    "description": ":carrot:"
+  },
+  {
+    "character": "🤸",
+    "description": ":cartwheeling:"
+  },
+  {
+    "character": "🐱",
+    "description": ":cat:"
+  },
+  {
+    "character": "🐈",
+    "description": ":cat2:"
+  },
+  {
+    "character": "🇰‍🇾",
+    "description": ":cayman_islands:"
+  },
+  {
+    "character": "💿",
+    "description": ":cd:"
+  },
+  {
+    "character": "🇨‍🇫",
+    "description": ":central_african_republic:"
+  },
+  {
+    "character": "🇪‍🇦",
+    "description": ":ceuta_melilla:"
+  },
+  {
+    "character": "🇹‍🇩",
+    "description": ":chad:"
+  },
+  {
+    "character": "⛓",
+    "description": ":chains:"
+  },
+  {
+    "character": "🪑",
+    "description": ":chair:"
+  },
+  {
+    "character": "🍾",
+    "description": ":champagne:"
+  },
+  {
+    "character": "💹",
+    "description": ":chart:"
+  },
+  {
+    "character": "📉",
+    "description": ":chart_with_downwards_trend:"
+  },
+  {
+    "character": "📈",
+    "description": ":chart_with_upwards_trend:"
+  },
+  {
+    "character": "🏁",
+    "description": ":checkered_flag:"
+  },
+  {
+    "character": "🧀",
+    "description": ":cheese:"
+  },
+  {
+    "character": "🍒",
+    "description": ":cherries:"
+  },
+  {
+    "character": "🌸",
+    "description": ":cherry_blossom:"
+  },
+  {
+    "character": "♟",
+    "description": ":chess_pawn:"
+  },
+  {
+    "character": "🌰",
+    "description": ":chestnut:"
+  },
+  {
+    "character": "🐔",
+    "description": ":chicken:"
+  },
+  {
+    "character": "🧒",
+    "description": ":child:"
+  },
+  {
+    "character": "🚸",
+    "description": ":children_crossing:"
+  },
+  {
+    "character": "🇨‍🇱",
+    "description": ":chile:"
+  },
+  {
+    "character": "🐿",
+    "description": ":chipmunk:"
+  },
+  {
+    "character": "🍫",
+    "description": ":chocolate_bar:"
+  },
+  {
+    "character": "🥢",
+    "description": ":chopsticks:"
+  },
+  {
+    "character": "🇨‍🇽",
+    "description": ":christmas_island:"
+  },
+  {
+    "character": "🎄",
+    "description": ":christmas_tree:"
+  },
+  {
+    "character": "⛪",
+    "description": ":church:"
+  },
+  {
+    "character": "🎦",
+    "description": ":cinema:"
+  },
+  {
+    "character": "🎪",
+    "description": ":circus_tent:"
+  },
+  {
+    "character": "🌇",
+    "description": ":city_sunrise:"
+  },
+  {
+    "character": "🌆",
+    "description": ":city_sunset:"
+  },
+  {
+    "character": "🏙",
+    "description": ":cityscape:"
+  },
+  {
+    "character": "🆑",
+    "description": ":cl:"
+  },
+  {
+    "character": "🗜",
+    "description": ":clamp:"
+  },
+  {
+    "character": "👏",
+    "description": ":clap:"
+  },
+  {
+    "character": "🎬",
+    "description": ":clapper:"
+  },
+  {
+    "character": "🏛",
+    "description": ":classical_building:"
+  },
+  {
+    "character": "🧗",
+    "description": ":climbing:"
+  },
+  {
+    "character": "🧗‍♂",
+    "description": ":climbing_man:"
+  },
+  {
+    "character": "🧗‍♀",
+    "description": ":climbing_woman:"
+  },
+  {
+    "character": "🥂",
+    "description": ":clinking_glasses:"
+  },
+  {
+    "character": "📋",
+    "description": ":clipboard:"
+  },
+  {
+    "character": "🇨‍🇵",
+    "description": ":clipperton_island:"
+  },
+  {
+    "character": "🕐",
+    "description": ":clock1:"
+  },
+  {
+    "character": "🕙",
+    "description": ":clock10:"
+  },
+  {
+    "character": "🕥",
+    "description": ":clock1030:"
+  },
+  {
+    "character": "🕚",
+    "description": ":clock11:"
+  },
+  {
+    "character": "🕦",
+    "description": ":clock1130:"
+  },
+  {
+    "character": "🕛",
+    "description": ":clock12:"
+  },
+  {
+    "character": "🕧",
+    "description": ":clock1230:"
+  },
+  {
+    "character": "🕜",
+    "description": ":clock130:"
+  },
+  {
+    "character": "🕑",
+    "description": ":clock2:"
+  },
+  {
+    "character": "🕝",
+    "description": ":clock230:"
+  },
+  {
+    "character": "🕒",
+    "description": ":clock3:"
+  },
+  {
+    "character": "🕞",
+    "description": ":clock330:"
+  },
+  {
+    "character": "🕓",
+    "description": ":clock4:"
+  },
+  {
+    "character": "🕟",
+    "description": ":clock430:"
+  },
+  {
+    "character": "🕔",
+    "description": ":clock5:"
+  },
+  {
+    "character": "🕠",
+    "description": ":clock530:"
+  },
+  {
+    "character": "🕕",
+    "description": ":clock6:"
+  },
+  {
+    "character": "🕡",
+    "description": ":clock630:"
+  },
+  {
+    "character": "🕖",
+    "description": ":clock7:"
+  },
+  {
+    "character": "🕢",
+    "description": ":clock730:"
+  },
+  {
+    "character": "🕗",
+    "description": ":clock8:"
+  },
+  {
+    "character": "🕣",
+    "description": ":clock830:"
+  },
+  {
+    "character": "🕘",
+    "description": ":clock9:"
+  },
+  {
+    "character": "🕤",
+    "description": ":clock930:"
+  },
+  {
+    "character": "📕",
+    "description": ":closed_book:"
+  },
+  {
+    "character": "🔐",
+    "description": ":closed_lock_with_key:"
+  },
+  {
+    "character": "🌂",
+    "description": ":closed_umbrella:"
+  },
+  {
+    "character": "☁",
+    "description": ":cloud:"
+  },
+  {
+    "character": "🌩",
+    "description": ":cloud_with_lightning:"
+  },
+  {
+    "character": "⛈",
+    "description": ":cloud_with_lightning_and_rain:"
+  },
+  {
+    "character": "🌧",
+    "description": ":cloud_with_rain:"
+  },
+  {
+    "character": "🌨",
+    "description": ":cloud_with_snow:"
+  },
+  {
+    "character": "🤡",
+    "description": ":clown_face:"
+  },
+  {
+    "character": "♣",
+    "description": ":clubs:"
+  },
+  {
+    "character": "🇨‍🇳",
+    "description": ":cn:"
+  },
+  {
+    "character": "🧥",
+    "description": ":coat:"
+  },
+  {
+    "character": "🍸",
+    "description": ":cocktail:"
+  },
+  {
+    "character": "🥥",
+    "description": ":coconut:"
+  },
+  {
+    "character": "🇨‍🇨",
+    "description": ":cocos_islands:"
+  },
+  {
+    "character": "☕",
+    "description": ":coffee:"
+  },
+  {
+    "character": "⚰",
+    "description": ":coffin:"
+  },
+  {
+    "character": "🥶",
+    "description": ":cold_face:"
+  },
+  {
+    "character": "😰",
+    "description": ":cold_sweat:"
+  },
+  {
+    "character": "💥",
+    "description": ":collision:"
+  },
+  {
+    "character": "🇨‍🇴",
+    "description": ":colombia:"
+  },
+  {
+    "character": "☄",
+    "description": ":comet:"
+  },
+  {
+    "character": "🇰‍🇲",
+    "description": ":comoros:"
+  },
+  {
+    "character": "🧭",
+    "description": ":compass:"
+  },
+  {
+    "character": "💻",
+    "description": ":computer:"
+  },
+  {
+    "character": "🖱",
+    "description": ":computer_mouse:"
+  },
+  {
+    "character": "🎊",
+    "description": ":confetti_ball:"
+  },
+  {
+    "character": "😖",
+    "description": ":confounded:"
+  },
+  {
+    "character": "😕",
+    "description": ":confused:"
+  },
+  {
+    "character": "🇨‍🇬",
+    "description": ":congo_brazzaville:"
+  },
+  {
+    "character": "🇨‍🇩",
+    "description": ":congo_kinshasa:"
+  },
+  {
+    "character": "㊗",
+    "description": ":congratulations:"
+  },
+  {
+    "character": "🚧",
+    "description": ":construction:"
+  },
+  {
+    "character": "👷",
+    "description": ":construction_worker:"
+  },
+  {
+    "character": "👷‍♂",
+    "description": ":construction_worker_man:"
+  },
+  {
+    "character": "👷‍♀",
+    "description": ":construction_worker_woman:"
+  },
+  {
+    "character": "🎛",
+    "description": ":control_knobs:"
+  },
+  {
+    "character": "🏪",
+    "description": ":convenience_store:"
+  },
+  {
+    "character": "🧑‍🍳",
+    "description": ":cook:"
+  },
+  {
+    "character": "🇨‍🇰",
+    "description": ":cook_islands:"
+  },
+  {
+    "character": "🍪",
+    "description": ":cookie:"
+  },
+  {
+    "character": "🆒",
+    "description": ":cool:"
+  },
+  {
+    "character": "👮",
+    "description": ":cop:"
+  },
+  {
+    "character": "©",
+    "description": ":copyright:"
+  },
+  {
+    "character": "🌽",
+    "description": ":corn:"
+  },
+  {
+    "character": "🇨‍🇷",
+    "description": ":costa_rica:"
+  },
+  {
+    "character": "🇨‍🇮",
+    "description": ":cote_divoire:"
+  },
+  {
+    "character": "🛋",
+    "description": ":couch_and_lamp:"
+  },
+  {
+    "character": "👫",
+    "description": ":couple:"
+  },
+  {
+    "character": "💑",
+    "description": ":couple_with_heart:"
+  },
+  {
+    "character": "👨‍❤‍👨",
+    "description": ":couple_with_heart_man_man:"
+  },
+  {
+    "character": "👩‍❤‍👨",
+    "description": ":couple_with_heart_woman_man:"
+  },
+  {
+    "character": "👩‍❤‍👩",
+    "description": ":couple_with_heart_woman_woman:"
+  },
+  {
+    "character": "💏",
+    "description": ":couplekiss:"
+  },
+  {
+    "character": "👨‍❤‍💋‍👨",
+    "description": ":couplekiss_man_man:"
+  },
+  {
+    "character": "👩‍❤‍💋‍👨",
+    "description": ":couplekiss_man_woman:"
+  },
+  {
+    "character": "👩‍❤‍💋‍👩",
+    "description": ":couplekiss_woman_woman:"
+  },
+  {
+    "character": "🐮",
+    "description": ":cow:"
+  },
+  {
+    "character": "🐄",
+    "description": ":cow2:"
+  },
+  {
+    "character": "🤠",
+    "description": ":cowboy_hat_face:"
+  },
+  {
+    "character": "🦀",
+    "description": ":crab:"
+  },
+  {
+    "character": "🖍",
+    "description": ":crayon:"
+  },
+  {
+    "character": "💳",
+    "description": ":credit_card:"
+  },
+  {
+    "character": "🌙",
+    "description": ":crescent_moon:"
+  },
+  {
+    "character": "🦗",
+    "description": ":cricket:"
+  },
+  {
+    "character": "🏏",
+    "description": ":cricket_game:"
+  },
+  {
+    "character": "🇭‍🇷",
+    "description": ":croatia:"
+  },
+  {
+    "character": "🐊",
+    "description": ":crocodile:"
+  },
+  {
+    "character": "🥐",
+    "description": ":croissant:"
+  },
+  {
+    "character": "🤞",
+    "description": ":crossed_fingers:"
+  },
+  {
+    "character": "🎌",
+    "description": ":crossed_flags:"
+  },
+  {
+    "character": "⚔",
+    "description": ":crossed_swords:"
+  },
+  {
+    "character": "👑",
+    "description": ":crown:"
+  },
+  {
+    "character": "😢",
+    "description": ":cry:"
+  },
+  {
+    "character": "😿",
+    "description": ":crying_cat_face:"
+  },
+  {
+    "character": "🔮",
+    "description": ":crystal_ball:"
+  },
+  {
+    "character": "🇨‍🇺",
+    "description": ":cuba:"
+  },
+  {
+    "character": "🥒",
+    "description": ":cucumber:"
+  },
+  {
+    "character": "🥤",
+    "description": ":cup_with_straw:"
+  },
+  {
+    "character": "🧁",
+    "description": ":cupcake:"
+  },
+  {
+    "character": "💘",
+    "description": ":cupid:"
+  },
+  {
+    "character": "🇨‍🇼",
+    "description": ":curacao:"
+  },
+  {
+    "character": "🥌",
+    "description": ":curling_stone:"
+  },
+  {
+    "character": "👨‍🦱",
+    "description": ":curly_haired_man:"
+  },
+  {
+    "character": "👩‍🦱",
+    "description": ":curly_haired_woman:"
+  },
+  {
+    "character": "➰",
+    "description": ":curly_loop:"
+  },
+  {
+    "character": "💱",
+    "description": ":currency_exchange:"
+  },
+  {
+    "character": "🍛",
+    "description": ":curry:"
+  },
+  {
+    "character": "🤬",
+    "description": ":cursing_face:"
+  },
+  {
+    "character": "🍮",
+    "description": ":custard:"
+  },
+  {
+    "character": "🛃",
+    "description": ":customs:"
+  },
+  {
+    "character": "🥩",
+    "description": ":cut_of_meat:"
+  },
+  {
+    "character": "🌀",
+    "description": ":cyclone:"
+  },
+  {
+    "character": "🇨‍🇾",
+    "description": ":cyprus:"
+  },
+  {
+    "character": "🇨‍🇿",
+    "description": ":czech_republic:"
+  },
+  {
+    "character": "🗡",
+    "description": ":dagger:"
+  },
+  {
+    "character": "💃",
+    "description": ":dancer:"
+  },
+  {
+    "character": "👯",
+    "description": ":dancers:"
+  },
+  {
+    "character": "👯‍♂",
+    "description": ":dancing_men:"
+  },
+  {
+    "character": "👯‍♀",
+    "description": ":dancing_women:"
+  },
+  {
+    "character": "🍡",
+    "description": ":dango:"
+  },
+  {
+    "character": "🕶",
+    "description": ":dark_sunglasses:"
+  },
+  {
+    "character": "🎯",
+    "description": ":dart:"
+  },
+  {
+    "character": "💨",
+    "description": ":dash:"
+  },
+  {
+    "character": "📅",
+    "description": ":date:"
+  },
+  {
+    "character": "🇩‍🇪",
+    "description": ":de:"
+  },
+  {
+    "character": "🧏‍♂",
+    "description": ":deaf_man:"
+  },
+  {
+    "character": "🧏",
+    "description": ":deaf_person:"
+  },
+  {
+    "character": "🧏‍♀",
+    "description": ":deaf_woman:"
+  },
+  {
+    "character": "🌳",
+    "description": ":deciduous_tree:"
+  },
+  {
+    "character": "🦌",
+    "description": ":deer:"
+  },
+  {
+    "character": "🇩‍🇰",
+    "description": ":denmark:"
+  },
+  {
+    "character": "🏬",
+    "description": ":department_store:"
+  },
+  {
+    "character": "🏚",
+    "description": ":derelict_house:"
+  },
+  {
+    "character": "🏜",
+    "description": ":desert:"
+  },
+  {
+    "character": "🏝",
+    "description": ":desert_island:"
+  },
+  {
+    "character": "🖥",
+    "description": ":desktop_computer:"
+  },
+  {
+    "character": "🕵",
+    "description": ":detective:"
+  },
+  {
+    "character": "💠",
+    "description": ":diamond_shape_with_a_dot_inside:"
+  },
+  {
+    "character": "♦",
+    "description": ":diamonds:"
+  },
+  {
+    "character": "🇩‍🇬",
+    "description": ":diego_garcia:"
+  },
+  {
+    "character": "😞",
+    "description": ":disappointed:"
+  },
+  {
+    "character": "😥",
+    "description": ":disappointed_relieved:"
+  },
+  {
+    "character": "🤿",
+    "description": ":diving_mask:"
+  },
+  {
+    "character": "🪔",
+    "description": ":diya_lamp:"
+  },
+  {
+    "character": "💫",
+    "description": ":dizzy:"
+  },
+  {
+    "character": "😵",
+    "description": ":dizzy_face:"
+  },
+  {
+    "character": "🇩‍🇯",
+    "description": ":djibouti:"
+  },
+  {
+    "character": "🧬",
+    "description": ":dna:"
+  },
+  {
+    "character": "🚯",
+    "description": ":do_not_litter:"
+  },
+  {
+    "character": "🐶",
+    "description": ":dog:"
+  },
+  {
+    "character": "🐕",
+    "description": ":dog2:"
+  },
+  {
+    "character": "💵",
+    "description": ":dollar:"
+  },
+  {
+    "character": "🎎",
+    "description": ":dolls:"
+  },
+  {
+    "character": "🐬",
+    "description": ":dolphin:"
+  },
+  {
+    "character": "🇩‍🇲",
+    "description": ":dominica:"
+  },
+  {
+    "character": "🇩‍🇴",
+    "description": ":dominican_republic:"
+  },
+  {
+    "character": "🚪",
+    "description": ":door:"
+  },
+  {
+    "character": "🍩",
+    "description": ":doughnut:"
+  },
+  {
+    "character": "🕊",
+    "description": ":dove:"
+  },
+  {
+    "character": "🐉",
+    "description": ":dragon:"
+  },
+  {
+    "character": "🐲",
+    "description": ":dragon_face:"
+  },
+  {
+    "character": "👗",
+    "description": ":dress:"
+  },
+  {
+    "character": "🐪",
+    "description": ":dromedary_camel:"
+  },
+  {
+    "character": "🤤",
+    "description": ":drooling_face:"
+  },
+  {
+    "character": "🩸",
+    "description": ":drop_of_blood:"
+  },
+  {
+    "character": "💧",
+    "description": ":droplet:"
+  },
+  {
+    "character": "🥁",
+    "description": ":drum:"
+  },
+  {
+    "character": "🦆",
+    "description": ":duck:"
+  },
+  {
+    "character": "🥟",
+    "description": ":dumpling:"
+  },
+  {
+    "character": "📀",
+    "description": ":dvd:"
+  },
+  {
+    "character": "📧",
+    "description": ":e-mail:"
+  },
+  {
+    "character": "🦅",
+    "description": ":eagle:"
+  },
+  {
+    "character": "👂",
+    "description": ":ear:"
+  },
+  {
+    "character": "🌾",
+    "description": ":ear_of_rice:"
+  },
+  {
+    "character": "🦻",
+    "description": ":ear_with_hearing_aid:"
+  },
+  {
+    "character": "🌍",
+    "description": ":earth_africa:"
+  },
+  {
+    "character": "🌎",
+    "description": ":earth_americas:"
+  },
+  {
+    "character": "🌏",
+    "description": ":earth_asia:"
+  },
+  {
+    "character": "🇪‍🇨",
+    "description": ":ecuador:"
+  },
+  {
+    "character": "🥚",
+    "description": ":egg:"
+  },
+  {
+    "character": "🍆",
+    "description": ":eggplant:"
+  },
+  {
+    "character": "🇪‍🇬",
+    "description": ":egypt:"
+  },
+  {
+    "character": "8‍⃣",
+    "description": ":eight:"
+  },
+  {
+    "character": "✴",
+    "description": ":eight_pointed_black_star:"
+  },
+  {
+    "character": "✳",
+    "description": ":eight_spoked_asterisk:"
+  },
+  {
+    "character": "⏏",
+    "description": ":eject_button:"
+  },
+  {
+    "character": "🇸‍🇻",
+    "description": ":el_salvador:"
+  },
+  {
+    "character": "🔌",
+    "description": ":electric_plug:"
+  },
+  {
+    "character": "🐘",
+    "description": ":elephant:"
+  },
+  {
+    "character": "🧝",
+    "description": ":elf:"
+  },
+  {
+    "character": "🧝‍♂",
+    "description": ":elf_man:"
+  },
+  {
+    "character": "🧝‍♀",
+    "description": ":elf_woman:"
+  },
+  {
+    "character": "✉",
+    "description": ":email:"
+  },
+  {
+    "character": "🔚",
+    "description": ":end:"
+  },
+  {
+    "character": "🏴‍󠁧‍󠁢‍󠁥‍󠁮‍󠁧‍󠁿",
+    "description": ":england:"
+  },
+  {
+    "character": "✉",
+    "description": ":envelope:"
+  },
+  {
+    "character": "📩",
+    "description": ":envelope_with_arrow:"
+  },
+  {
+    "character": "🇬‍🇶",
+    "description": ":equatorial_guinea:"
+  },
+  {
+    "character": "🇪‍🇷",
+    "description": ":eritrea:"
+  },
+  {
+    "character": "🇪‍🇸",
+    "description": ":es:"
+  },
+  {
+    "character": "🇪‍🇪",
+    "description": ":estonia:"
+  },
+  {
+    "character": "🇪‍🇹",
+    "description": ":ethiopia:"
+  },
+  {
+    "character": "🇪‍🇺",
+    "description": ":eu:"
+  },
+  {
+    "character": "💶",
+    "description": ":euro:"
+  },
+  {
+    "character": "🏰",
+    "description": ":european_castle:"
+  },
+  {
+    "character": "🏤",
+    "description": ":european_post_office:"
+  },
+  {
+    "character": "🇪‍🇺",
+    "description": ":european_union:"
+  },
+  {
+    "character": "🌲",
+    "description": ":evergreen_tree:"
+  },
+  {
+    "character": "❗",
+    "description": ":exclamation:"
+  },
+  {
+    "character": "🤯",
+    "description": ":exploding_head:"
+  },
+  {
+    "character": "😑",
+    "description": ":expressionless:"
+  },
+  {
+    "character": "👁",
+    "description": ":eye:"
+  },
+  {
+    "character": "👁‍🗨",
+    "description": ":eye_speech_bubble:"
+  },
+  {
+    "character": "👓",
+    "description": ":eyeglasses:"
+  },
+  {
+    "character": "👀",
+    "description": ":eyes:"
+  },
+  {
+    "character": "🤕",
+    "description": ":face_with_head_bandage:"
+  },
+  {
+    "character": "🤒",
+    "description": ":face_with_thermometer:"
+  },
+  {
+    "character": "🤦",
+    "description": ":facepalm:"
+  },
+  {
+    "character": "👊",
+    "description": ":facepunch:"
+  },
+  {
+    "character": "🏭",
+    "description": ":factory:"
+  },
+  {
+    "character": "🧑‍🏭",
+    "description": ":factory_worker:"
+  },
+  {
+    "character": "🧚",
+    "description": ":fairy:"
+  },
+  {
+    "character": "🧚‍♂",
+    "description": ":fairy_man:"
+  },
+  {
+    "character": "🧚‍♀",
+    "description": ":fairy_woman:"
+  },
+  {
+    "character": "🧆",
+    "description": ":falafel:"
+  },
+  {
+    "character": "🇫‍🇰",
+    "description": ":falkland_islands:"
+  },
+  {
+    "character": "🍂",
+    "description": ":fallen_leaf:"
+  },
+  {
+    "character": "👪",
+    "description": ":family:"
+  },
+  {
+    "character": "👨‍👦",
+    "description": ":family_man_boy:"
+  },
+  {
+    "character": "👨‍👦‍👦",
+    "description": ":family_man_boy_boy:"
+  },
+  {
+    "character": "👨‍👧",
+    "description": ":family_man_girl:"
+  },
+  {
+    "character": "👨‍👧‍👦",
+    "description": ":family_man_girl_boy:"
+  },
+  {
+    "character": "👨‍👧‍👧",
+    "description": ":family_man_girl_girl:"
+  },
+  {
+    "character": "👨‍👨‍👦",
+    "description": ":family_man_man_boy:"
+  },
+  {
+    "character": "👨‍👨‍👦‍👦",
+    "description": ":family_man_man_boy_boy:"
+  },
+  {
+    "character": "👨‍👨‍👧",
+    "description": ":family_man_man_girl:"
+  },
+  {
+    "character": "👨‍👨‍👧‍👦",
+    "description": ":family_man_man_girl_boy:"
+  },
+  {
+    "character": "👨‍👨‍👧‍👧",
+    "description": ":family_man_man_girl_girl:"
+  },
+  {
+    "character": "👨‍👩‍👦",
+    "description": ":family_man_woman_boy:"
+  },
+  {
+    "character": "👨‍👩‍👦‍👦",
+    "description": ":family_man_woman_boy_boy:"
+  },
+  {
+    "character": "👨‍👩‍👧",
+    "description": ":family_man_woman_girl:"
+  },
+  {
+    "character": "👨‍👩‍👧‍👦",
+    "description": ":family_man_woman_girl_boy:"
+  },
+  {
+    "character": "👨‍👩‍👧‍👧",
+    "description": ":family_man_woman_girl_girl:"
+  },
+  {
+    "character": "👩‍👦",
+    "description": ":family_woman_boy:"
+  },
+  {
+    "character": "👩‍👦‍👦",
+    "description": ":family_woman_boy_boy:"
+  },
+  {
+    "character": "👩‍👧",
+    "description": ":family_woman_girl:"
+  },
+  {
+    "character": "👩‍👧‍👦",
+    "description": ":family_woman_girl_boy:"
+  },
+  {
+    "character": "👩‍👧‍👧",
+    "description": ":family_woman_girl_girl:"
+  },
+  {
+    "character": "👩‍👩‍👦",
+    "description": ":family_woman_woman_boy:"
+  },
+  {
+    "character": "👩‍👩‍👦‍👦",
+    "description": ":family_woman_woman_boy_boy:"
+  },
+  {
+    "character": "👩‍👩‍👧",
+    "description": ":family_woman_woman_girl:"
+  },
+  {
+    "character": "👩‍👩‍👧‍👦",
+    "description": ":family_woman_woman_girl_boy:"
+  },
+  {
+    "character": "👩‍👩‍👧‍👧",
+    "description": ":family_woman_woman_girl_girl:"
+  },
+  {
+    "character": "🧑‍🌾",
+    "description": ":farmer:"
+  },
+  {
+    "character": "🇫‍🇴",
+    "description": ":faroe_islands:"
+  },
+  {
+    "character": "⏩",
+    "description": ":fast_forward:"
+  },
+  {
+    "character": "📠",
+    "description": ":fax:"
+  },
+  {
+    "character": "😨",
+    "description": ":fearful:"
+  },
+  {
+    "character": "🐾",
+    "description": ":feet:"
+  },
+  {
+    "character": "🕵‍♀",
+    "description": ":female_detective:"
+  },
+  {
+    "character": "♀",
+    "description": ":female_sign:"
+  },
+  {
+    "character": "🎡",
+    "description": ":ferris_wheel:"
+  },
+  {
+    "character": "⛴",
+    "description": ":ferry:"
+  },
+  {
+    "character": "🏑",
+    "description": ":field_hockey:"
+  },
+  {
+    "character": "🇫‍🇯",
+    "description": ":fiji:"
+  },
+  {
+    "character": "🗄",
+    "description": ":file_cabinet:"
+  },
+  {
+    "character": "📁",
+    "description": ":file_folder:"
+  },
+  {
+    "character": "📽",
+    "description": ":film_projector:"
+  },
+  {
+    "character": "🎞",
+    "description": ":film_strip:"
+  },
+  {
+    "character": "🇫‍🇮",
+    "description": ":finland:"
+  },
+  {
+    "character": "🔥",
+    "description": ":fire:"
+  },
+  {
+    "character": "🚒",
+    "description": ":fire_engine:"
+  },
+  {
+    "character": "🧯",
+    "description": ":fire_extinguisher:"
+  },
+  {
+    "character": "🧨",
+    "description": ":firecracker:"
+  },
+  {
+    "character": "🧑‍🚒",
+    "description": ":firefighter:"
+  },
+  {
+    "character": "🎆",
+    "description": ":fireworks:"
+  },
+  {
+    "character": "🌓",
+    "description": ":first_quarter_moon:"
+  },
+  {
+    "character": "🌛",
+    "description": ":first_quarter_moon_with_face:"
+  },
+  {
+    "character": "🐟",
+    "description": ":fish:"
+  },
+  {
+    "character": "🍥",
+    "description": ":fish_cake:"
+  },
+  {
+    "character": "🎣",
+    "description": ":fishing_pole_and_fish:"
+  },
+  {
+    "character": "✊",
+    "description": ":fist:"
+  },
+  {
+    "character": "🤛",
+    "description": ":fist_left:"
+  },
+  {
+    "character": "👊",
+    "description": ":fist_oncoming:"
+  },
+  {
+    "character": "✊",
+    "description": ":fist_raised:"
+  },
+  {
+    "character": "🤜",
+    "description": ":fist_right:"
+  },
+  {
+    "character": "5‍⃣",
+    "description": ":five:"
+  },
+  {
+    "character": "🎏",
+    "description": ":flags:"
+  },
+  {
+    "character": "🦩",
+    "description": ":flamingo:"
+  },
+  {
+    "character": "🔦",
+    "description": ":flashlight:"
+  },
+  {
+    "character": "🥿",
+    "description": ":flat_shoe:"
+  },
+  {
+    "character": "⚜",
+    "description": ":fleur_de_lis:"
+  },
+  {
+    "character": "🛬",
+    "description": ":flight_arrival:"
+  },
+  {
+    "character": "🛫",
+    "description": ":flight_departure:"
+  },
+  {
+    "character": "🐬",
+    "description": ":flipper:"
+  },
+  {
+    "character": "💾",
+    "description": ":floppy_disk:"
+  },
+  {
+    "character": "🎴",
+    "description": ":flower_playing_cards:"
+  },
+  {
+    "character": "😳",
+    "description": ":flushed:"
+  },
+  {
+    "character": "🥏",
+    "description": ":flying_disc:"
+  },
+  {
+    "character": "🛸",
+    "description": ":flying_saucer:"
+  },
+  {
+    "character": "🌫",
+    "description": ":fog:"
+  },
+  {
+    "character": "🌁",
+    "description": ":foggy:"
+  },
+  {
+    "character": "🦶",
+    "description": ":foot:"
+  },
+  {
+    "character": "🏈",
+    "description": ":football:"
+  },
+  {
+    "character": "👣",
+    "description": ":footprints:"
+  },
+  {
+    "character": "🍴",
+    "description": ":fork_and_knife:"
+  },
+  {
+    "character": "🥠",
+    "description": ":fortune_cookie:"
+  },
+  {
+    "character": "⛲",
+    "description": ":fountain:"
+  },
+  {
+    "character": "🖋",
+    "description": ":fountain_pen:"
+  },
+  {
+    "character": "4‍⃣",
+    "description": ":four:"
+  },
+  {
+    "character": "🍀",
+    "description": ":four_leaf_clover:"
+  },
+  {
+    "character": "🦊",
+    "description": ":fox_face:"
+  },
+  {
+    "character": "🇫‍🇷",
+    "description": ":fr:"
+  },
+  {
+    "character": "🖼",
+    "description": ":framed_picture:"
+  },
+  {
+    "character": "🆓",
+    "description": ":free:"
+  },
+  {
+    "character": "🇬‍🇫",
+    "description": ":french_guiana:"
+  },
+  {
+    "character": "🇵‍🇫",
+    "description": ":french_polynesia:"
+  },
+  {
+    "character": "🇹‍🇫",
+    "description": ":french_southern_territories:"
+  },
+  {
+    "character": "🍳",
+    "description": ":fried_egg:"
+  },
+  {
+    "character": "🍤",
+    "description": ":fried_shrimp:"
+  },
+  {
+    "character": "🍟",
+    "description": ":fries:"
+  },
+  {
+    "character": "🐸",
+    "description": ":frog:"
+  },
+  {
+    "character": "😦",
+    "description": ":frowning:"
+  },
+  {
+    "character": "☹",
+    "description": ":frowning_face:"
+  },
+  {
+    "character": "🙍‍♂",
+    "description": ":frowning_man:"
+  },
+  {
+    "character": "🙍",
+    "description": ":frowning_person:"
+  },
+  {
+    "character": "🙍‍♀",
+    "description": ":frowning_woman:"
+  },
+  {
+    "character": "🖕",
+    "description": ":fu:"
+  },
+  {
+    "character": "⛽",
+    "description": ":fuelpump:"
+  },
+  {
+    "character": "🌕",
+    "description": ":full_moon:"
+  },
+  {
+    "character": "🌝",
+    "description": ":full_moon_with_face:"
+  },
+  {
+    "character": "⚱",
+    "description": ":funeral_urn:"
+  },
+  {
+    "character": "🇬‍🇦",
+    "description": ":gabon:"
+  },
+  {
+    "character": "🇬‍🇲",
+    "description": ":gambia:"
+  },
+  {
+    "character": "🎲",
+    "description": ":game_die:"
+  },
+  {
+    "character": "🧄",
+    "description": ":garlic:"
+  },
+  {
+    "character": "🇬‍🇧",
+    "description": ":gb:"
+  },
+  {
+    "character": "⚙",
+    "description": ":gear:"
+  },
+  {
+    "character": "💎",
+    "description": ":gem:"
+  },
+  {
+    "character": "♊",
+    "description": ":gemini:"
+  },
+  {
+    "character": "🧞",
+    "description": ":genie:"
+  },
+  {
+    "character": "🧞‍♂",
+    "description": ":genie_man:"
+  },
+  {
+    "character": "🧞‍♀",
+    "description": ":genie_woman:"
+  },
+  {
+    "character": "🇬‍🇪",
+    "description": ":georgia:"
+  },
+  {
+    "character": "🇬‍🇭",
+    "description": ":ghana:"
+  },
+  {
+    "character": "👻",
+    "description": ":ghost:"
+  },
+  {
+    "character": "🇬‍🇮",
+    "description": ":gibraltar:"
+  },
+  {
+    "character": "🎁",
+    "description": ":gift:"
+  },
+  {
+    "character": "💝",
+    "description": ":gift_heart:"
+  },
+  {
+    "character": "🦒",
+    "description": ":giraffe:"
+  },
+  {
+    "character": "👧",
+    "description": ":girl:"
+  },
+  {
+    "character": "🌐",
+    "description": ":globe_with_meridians:"
+  },
+  {
+    "character": "🧤",
+    "description": ":gloves:"
+  },
+  {
+    "character": "🥅",
+    "description": ":goal_net:"
+  },
+  {
+    "character": "🐐",
+    "description": ":goat:"
+  },
+  {
+    "character": "🥽",
+    "description": ":goggles:"
+  },
+  {
+    "character": "⛳",
+    "description": ":golf:"
+  },
+  {
+    "character": "🏌",
+    "description": ":golfing:"
+  },
+  {
+    "character": "🏌‍♂",
+    "description": ":golfing_man:"
+  },
+  {
+    "character": "🏌‍♀",
+    "description": ":golfing_woman:"
+  },
+  {
+    "character": "🦍",
+    "description": ":gorilla:"
+  },
+  {
+    "character": "🍇",
+    "description": ":grapes:"
+  },
+  {
+    "character": "🇬‍🇷",
+    "description": ":greece:"
+  },
+  {
+    "character": "🍏",
+    "description": ":green_apple:"
+  },
+  {
+    "character": "📗",
+    "description": ":green_book:"
+  },
+  {
+    "character": "🟢",
+    "description": ":green_circle:"
+  },
+  {
+    "character": "💚",
+    "description": ":green_heart:"
+  },
+  {
+    "character": "🥗",
+    "description": ":green_salad:"
+  },
+  {
+    "character": "🟩",
+    "description": ":green_square:"
+  },
+  {
+    "character": "🇬‍🇱",
+    "description": ":greenland:"
+  },
+  {
+    "character": "🇬‍🇩",
+    "description": ":grenada:"
+  },
+  {
+    "character": "❕",
+    "description": ":grey_exclamation:"
+  },
+  {
+    "character": "❔",
+    "description": ":grey_question:"
+  },
+  {
+    "character": "😬",
+    "description": ":grimacing:"
+  },
+  {
+    "character": "😁",
+    "description": ":grin:"
+  },
+  {
+    "character": "😀",
+    "description": ":grinning:"
+  },
+  {
+    "character": "🇬‍🇵",
+    "description": ":guadeloupe:"
+  },
+  {
+    "character": "🇬‍🇺",
+    "description": ":guam:"
+  },
+  {
+    "character": "💂",
+    "description": ":guard:"
+  },
+  {
+    "character": "💂‍♂",
+    "description": ":guardsman:"
+  },
+  {
+    "character": "💂‍♀",
+    "description": ":guardswoman:"
+  },
+  {
+    "character": "🇬‍🇹",
+    "description": ":guatemala:"
+  },
+  {
+    "character": "🇬‍🇬",
+    "description": ":guernsey:"
+  },
+  {
+    "character": "🦮",
+    "description": ":guide_dog:"
+  },
+  {
+    "character": "🇬‍🇳",
+    "description": ":guinea:"
+  },
+  {
+    "character": "🇬‍🇼",
+    "description": ":guinea_bissau:"
+  },
+  {
+    "character": "🎸",
+    "description": ":guitar:"
+  },
+  {
+    "character": "🔫",
+    "description": ":gun:"
+  },
+  {
+    "character": "🇬‍🇾",
+    "description": ":guyana:"
+  },
+  {
+    "character": "💇",
+    "description": ":haircut:"
+  },
+  {
+    "character": "💇‍♂",
+    "description": ":haircut_man:"
+  },
+  {
+    "character": "💇‍♀",
+    "description": ":haircut_woman:"
+  },
+  {
+    "character": "🇭‍🇹",
+    "description": ":haiti:"
+  },
+  {
+    "character": "🍔",
+    "description": ":hamburger:"
+  },
+  {
+    "character": "🔨",
+    "description": ":hammer:"
+  },
+  {
+    "character": "⚒",
+    "description": ":hammer_and_pick:"
+  },
+  {
+    "character": "🛠",
+    "description": ":hammer_and_wrench:"
+  },
+  {
+    "character": "🐹",
+    "description": ":hamster:"
+  },
+  {
+    "character": "✋",
+    "description": ":hand:"
+  },
+  {
+    "character": "🤭",
+    "description": ":hand_over_mouth:"
+  },
+  {
+    "character": "👜",
+    "description": ":handbag:"
+  },
+  {
+    "character": "🤾",
+    "description": ":handball_person:"
+  },
+  {
+    "character": "🤝",
+    "description": ":handshake:"
+  },
+  {
+    "character": "💩",
+    "description": ":hankey:"
+  },
+  {
+    "character": "#‍⃣",
+    "description": ":hash:"
+  },
+  {
+    "character": "🐥",
+    "description": ":hatched_chick:"
+  },
+  {
+    "character": "🐣",
+    "description": ":hatching_chick:"
+  },
+  {
+    "character": "🎧",
+    "description": ":headphones:"
+  },
+  {
+    "character": "🧑‍⚕",
+    "description": ":health_worker:"
+  },
+  {
+    "character": "🙉",
+    "description": ":hear_no_evil:"
+  },
+  {
+    "character": "🇭‍🇲",
+    "description": ":heard_mcdonald_islands:"
+  },
+  {
+    "character": "❤",
+    "description": ":heart:"
+  },
+  {
+    "character": "💟",
+    "description": ":heart_decoration:"
+  },
+  {
+    "character": "😍",
+    "description": ":heart_eyes:"
+  },
+  {
+    "character": "😻",
+    "description": ":heart_eyes_cat:"
+  },
+  {
+    "character": "💓",
+    "description": ":heartbeat:"
+  },
+  {
+    "character": "💗",
+    "description": ":heartpulse:"
+  },
+  {
+    "character": "♥",
+    "description": ":hearts:"
+  },
+  {
+    "character": "✔",
+    "description": ":heavy_check_mark:"
+  },
+  {
+    "character": "➗",
+    "description": ":heavy_division_sign:"
+  },
+  {
+    "character": "💲",
+    "description": ":heavy_dollar_sign:"
+  },
+  {
+    "character": "❗",
+    "description": ":heavy_exclamation_mark:"
+  },
+  {
+    "character": "❣",
+    "description": ":heavy_heart_exclamation:"
+  },
+  {
+    "character": "➖",
+    "description": ":heavy_minus_sign:"
+  },
+  {
+    "character": "✖",
+    "description": ":heavy_multiplication_x:"
+  },
+  {
+    "character": "➕",
+    "description": ":heavy_plus_sign:"
+  },
+  {
+    "character": "🦔",
+    "description": ":hedgehog:"
+  },
+  {
+    "character": "🚁",
+    "description": ":helicopter:"
+  },
+  {
+    "character": "🌿",
+    "description": ":herb:"
+  },
+  {
+    "character": "🌺",
+    "description": ":hibiscus:"
+  },
+  {
+    "character": "🔆",
+    "description": ":high_brightness:"
+  },
+  {
+    "character": "👠",
+    "description": ":high_heel:"
+  },
+  {
+    "character": "🥾",
+    "description": ":hiking_boot:"
+  },
+  {
+    "character": "🛕",
+    "description": ":hindu_temple:"
+  },
+  {
+    "character": "🦛",
+    "description": ":hippopotamus:"
+  },
+  {
+    "character": "🔪",
+    "description": ":hocho:"
+  },
+  {
+    "character": "🕳",
+    "description": ":hole:"
+  },
+  {
+    "character": "🇭‍🇳",
+    "description": ":honduras:"
+  },
+  {
+    "character": "🍯",
+    "description": ":honey_pot:"
+  },
+  {
+    "character": "🐝",
+    "description": ":honeybee:"
+  },
+  {
+    "character": "🇭‍🇰",
+    "description": ":hong_kong:"
+  },
+  {
+    "character": "🐴",
+    "description": ":horse:"
+  },
+  {
+    "character": "🏇",
+    "description": ":horse_racing:"
+  },
+  {
+    "character": "🏥",
+    "description": ":hospital:"
+  },
+  {
+    "character": "🥵",
+    "description": ":hot_face:"
+  },
+  {
+    "character": "🌶",
+    "description": ":hot_pepper:"
+  },
+  {
+    "character": "🌭",
+    "description": ":hotdog:"
+  },
+  {
+    "character": "🏨",
+    "description": ":hotel:"
+  },
+  {
+    "character": "♨",
+    "description": ":hotsprings:"
+  },
+  {
+    "character": "⌛",
+    "description": ":hourglass:"
+  },
+  {
+    "character": "⏳",
+    "description": ":hourglass_flowing_sand:"
+  },
+  {
+    "character": "🏠",
+    "description": ":house:"
+  },
+  {
+    "character": "🏡",
+    "description": ":house_with_garden:"
+  },
+  {
+    "character": "🏘",
+    "description": ":houses:"
+  },
+  {
+    "character": "🤗",
+    "description": ":hugs:"
+  },
+  {
+    "character": "🇭‍🇺",
+    "description": ":hungary:"
+  },
+  {
+    "character": "😯",
+    "description": ":hushed:"
+  },
+  {
+    "character": "🍨",
+    "description": ":ice_cream:"
+  },
+  {
+    "character": "🧊",
+    "description": ":ice_cube:"
+  },
+  {
+    "character": "🏒",
+    "description": ":ice_hockey:"
+  },
+  {
+    "character": "⛸",
+    "description": ":ice_skate:"
+  },
+  {
+    "character": "🍦",
+    "description": ":icecream:"
+  },
+  {
+    "character": "🇮‍🇸",
+    "description": ":iceland:"
+  },
+  {
+    "character": "🆔",
+    "description": ":id:"
+  },
+  {
+    "character": "🉐",
+    "description": ":ideograph_advantage:"
+  },
+  {
+    "character": "👿",
+    "description": ":imp:"
+  },
+  {
+    "character": "📥",
+    "description": ":inbox_tray:"
+  },
+  {
+    "character": "📨",
+    "description": ":incoming_envelope:"
+  },
+  {
+    "character": "🇮‍🇳",
+    "description": ":india:"
+  },
+  {
+    "character": "🇮‍🇩",
+    "description": ":indonesia:"
+  },
+  {
+    "character": "♾",
+    "description": ":infinity:"
+  },
+  {
+    "character": "💁",
+    "description": ":information_desk_person:"
+  },
+  {
+    "character": "ℹ",
+    "description": ":information_source:"
+  },
+  {
+    "character": "😇",
+    "description": ":innocent:"
+  },
+  {
+    "character": "⁉",
+    "description": ":interrobang:"
+  },
+  {
+    "character": "📱",
+    "description": ":iphone:"
+  },
+  {
+    "character": "🇮‍🇷",
+    "description": ":iran:"
+  },
+  {
+    "character": "🇮‍🇶",
+    "description": ":iraq:"
+  },
+  {
+    "character": "🇮‍🇪",
+    "description": ":ireland:"
+  },
+  {
+    "character": "🇮‍🇲",
+    "description": ":isle_of_man:"
+  },
+  {
+    "character": "🇮‍🇱",
+    "description": ":israel:"
+  },
+  {
+    "character": "🇮‍🇹",
+    "description": ":it:"
+  },
+  {
+    "character": "🏮",
+    "description": ":izakaya_lantern:"
+  },
+  {
+    "character": "🎃",
+    "description": ":jack_o_lantern:"
+  },
+  {
+    "character": "🇯‍🇲",
+    "description": ":jamaica:"
+  },
+  {
+    "character": "🗾",
+    "description": ":japan:"
+  },
+  {
+    "character": "🏯",
+    "description": ":japanese_castle:"
+  },
+  {
+    "character": "👺",
+    "description": ":japanese_goblin:"
+  },
+  {
+    "character": "👹",
+    "description": ":japanese_ogre:"
+  },
+  {
+    "character": "👖",
+    "description": ":jeans:"
+  },
+  {
+    "character": "🇯‍🇪",
+    "description": ":jersey:"
+  },
+  {
+    "character": "🧩",
+    "description": ":jigsaw:"
+  },
+  {
+    "character": "🇯‍🇴",
+    "description": ":jordan:"
+  },
+  {
+    "character": "😂",
+    "description": ":joy:"
+  },
+  {
+    "character": "😹",
+    "description": ":joy_cat:"
+  },
+  {
+    "character": "🕹",
+    "description": ":joystick:"
+  },
+  {
+    "character": "🇯‍🇵",
+    "description": ":jp:"
+  },
+  {
+    "character": "🧑‍⚖",
+    "description": ":judge:"
+  },
+  {
+    "character": "🤹",
+    "description": ":juggling_person:"
+  },
+  {
+    "character": "🕋",
+    "description": ":kaaba:"
+  },
+  {
+    "character": "🦘",
+    "description": ":kangaroo:"
+  },
+  {
+    "character": "🇰‍🇿",
+    "description": ":kazakhstan:"
+  },
+  {
+    "character": "🇰‍🇪",
+    "description": ":kenya:"
+  },
+  {
+    "character": "🔑",
+    "description": ":key:"
+  },
+  {
+    "character": "⌨",
+    "description": ":keyboard:"
+  },
+  {
+    "character": "🔟",
+    "description": ":keycap_ten:"
+  },
+  {
+    "character": "🛴",
+    "description": ":kick_scooter:"
+  },
+  {
+    "character": "👘",
+    "description": ":kimono:"
+  },
+  {
+    "character": "🇰‍🇮",
+    "description": ":kiribati:"
+  },
+  {
+    "character": "💋",
+    "description": ":kiss:"
+  },
+  {
+    "character": "😗",
+    "description": ":kissing:"
+  },
+  {
+    "character": "😽",
+    "description": ":kissing_cat:"
+  },
+  {
+    "character": "😚",
+    "description": ":kissing_closed_eyes:"
+  },
+  {
+    "character": "😘",
+    "description": ":kissing_heart:"
+  },
+  {
+    "character": "😙",
+    "description": ":kissing_smiling_eyes:"
+  },
+  {
+    "character": "🪁",
+    "description": ":kite:"
+  },
+  {
+    "character": "🥝",
+    "description": ":kiwi_fruit:"
+  },
+  {
+    "character": "🧎‍♂",
+    "description": ":kneeling_man:"
+  },
+  {
+    "character": "🧎",
+    "description": ":kneeling_person:"
+  },
+  {
+    "character": "🧎‍♀",
+    "description": ":kneeling_woman:"
+  },
+  {
+    "character": "🔪",
+    "description": ":knife:"
+  },
+  {
+    "character": "🐨",
+    "description": ":koala:"
+  },
+  {
+    "character": "🈁",
+    "description": ":koko:"
+  },
+  {
+    "character": "🇽‍🇰",
+    "description": ":kosovo:"
+  },
+  {
+    "character": "🇰‍🇷",
+    "description": ":kr:"
+  },
+  {
+    "character": "🇰‍🇼",
+    "description": ":kuwait:"
+  },
+  {
+    "character": "🇰‍🇬",
+    "description": ":kyrgyzstan:"
+  },
+  {
+    "character": "🥼",
+    "description": ":lab_coat:"
+  },
+  {
+    "character": "🏷",
+    "description": ":label:"
+  },
+  {
+    "character": "🥍",
+    "description": ":lacrosse:"
+  },
+  {
+    "character": "🏮",
+    "description": ":lantern:"
+  },
+  {
+    "character": "🇱‍🇦",
+    "description": ":laos:"
+  },
+  {
+    "character": "🔵",
+    "description": ":large_blue_circle:"
+  },
+  {
+    "character": "🔷",
+    "description": ":large_blue_diamond:"
+  },
+  {
+    "character": "🔶",
+    "description": ":large_orange_diamond:"
+  },
+  {
+    "character": "🌗",
+    "description": ":last_quarter_moon:"
+  },
+  {
+    "character": "🌜",
+    "description": ":last_quarter_moon_with_face:"
+  },
+  {
+    "character": "✝",
+    "description": ":latin_cross:"
+  },
+  {
+    "character": "🇱‍🇻",
+    "description": ":latvia:"
+  },
+  {
+    "character": "😆",
+    "description": ":laughing:"
+  },
+  {
+    "character": "🥬",
+    "description": ":leafy_green:"
+  },
+  {
+    "character": "🍃",
+    "description": ":leaves:"
+  },
+  {
+    "character": "🇱‍🇧",
+    "description": ":lebanon:"
+  },
+  {
+    "character": "📒",
+    "description": ":ledger:"
+  },
+  {
+    "character": "🛅",
+    "description": ":left_luggage:"
+  },
+  {
+    "character": "↔",
+    "description": ":left_right_arrow:"
+  },
+  {
+    "character": "🗨",
+    "description": ":left_speech_bubble:"
+  },
+  {
+    "character": "↩",
+    "description": ":leftwards_arrow_with_hook:"
+  },
+  {
+    "character": "🦵",
+    "description": ":leg:"
+  },
+  {
+    "character": "🍋",
+    "description": ":lemon:"
+  },
+  {
+    "character": "♌",
+    "description": ":leo:"
+  },
+  {
+    "character": "🐆",
+    "description": ":leopard:"
+  },
+  {
+    "character": "🇱‍🇸",
+    "description": ":lesotho:"
+  },
+  {
+    "character": "🎚",
+    "description": ":level_slider:"
+  },
+  {
+    "character": "🇱‍🇷",
+    "description": ":liberia:"
+  },
+  {
+    "character": "♎",
+    "description": ":libra:"
+  },
+  {
+    "character": "🇱‍🇾",
+    "description": ":libya:"
+  },
+  {
+    "character": "🇱‍🇮",
+    "description": ":liechtenstein:"
+  },
+  {
+    "character": "🚈",
+    "description": ":light_rail:"
+  },
+  {
+    "character": "🔗",
+    "description": ":link:"
+  },
+  {
+    "character": "🦁",
+    "description": ":lion:"
+  },
+  {
+    "character": "👄",
+    "description": ":lips:"
+  },
+  {
+    "character": "💄",
+    "description": ":lipstick:"
+  },
+  {
+    "character": "🇱‍🇹",
+    "description": ":lithuania:"
+  },
+  {
+    "character": "🦎",
+    "description": ":lizard:"
+  },
+  {
+    "character": "🦙",
+    "description": ":llama:"
+  },
+  {
+    "character": "🦞",
+    "description": ":lobster:"
+  },
+  {
+    "character": "🔒",
+    "description": ":lock:"
+  },
+  {
+    "character": "🔏",
+    "description": ":lock_with_ink_pen:"
+  },
+  {
+    "character": "🍭",
+    "description": ":lollipop:"
+  },
+  {
+    "character": "➿",
+    "description": ":loop:"
+  },
+  {
+    "character": "🧴",
+    "description": ":lotion_bottle:"
+  },
+  {
+    "character": "🧘",
+    "description": ":lotus_position:"
+  },
+  {
+    "character": "🧘‍♂",
+    "description": ":lotus_position_man:"
+  },
+  {
+    "character": "🧘‍♀",
+    "description": ":lotus_position_woman:"
+  },
+  {
+    "character": "🔊",
+    "description": ":loud_sound:"
+  },
+  {
+    "character": "📢",
+    "description": ":loudspeaker:"
+  },
+  {
+    "character": "🏩",
+    "description": ":love_hotel:"
+  },
+  {
+    "character": "💌",
+    "description": ":love_letter:"
+  },
+  {
+    "character": "🤟",
+    "description": ":love_you_gesture:"
+  },
+  {
+    "character": "🔅",
+    "description": ":low_brightness:"
+  },
+  {
+    "character": "🧳",
+    "description": ":luggage:"
+  },
+  {
+    "character": "🇱‍🇺",
+    "description": ":luxembourg:"
+  },
+  {
+    "character": "🤥",
+    "description": ":lying_face:"
+  },
+  {
+    "character": "Ⓜ",
+    "description": ":m:"
+  },
+  {
+    "character": "🇲‍🇴",
+    "description": ":macau:"
+  },
+  {
+    "character": "🇲‍🇰",
+    "description": ":macedonia:"
+  },
+  {
+    "character": "🇲‍🇬",
+    "description": ":madagascar:"
+  },
+  {
+    "character": "🔍",
+    "description": ":mag:"
+  },
+  {
+    "character": "🔎",
+    "description": ":mag_right:"
+  },
+  {
+    "character": "🧙",
+    "description": ":mage:"
+  },
+  {
+    "character": "🧙‍♂",
+    "description": ":mage_man:"
+  },
+  {
+    "character": "🧙‍♀",
+    "description": ":mage_woman:"
+  },
+  {
+    "character": "🧲",
+    "description": ":magnet:"
+  },
+  {
+    "character": "🀄",
+    "description": ":mahjong:"
+  },
+  {
+    "character": "📫",
+    "description": ":mailbox:"
+  },
+  {
+    "character": "📪",
+    "description": ":mailbox_closed:"
+  },
+  {
+    "character": "📬",
+    "description": ":mailbox_with_mail:"
+  },
+  {
+    "character": "📭",
+    "description": ":mailbox_with_no_mail:"
+  },
+  {
+    "character": "🇲‍🇼",
+    "description": ":malawi:"
+  },
+  {
+    "character": "🇲‍🇾",
+    "description": ":malaysia:"
+  },
+  {
+    "character": "🇲‍🇻",
+    "description": ":maldives:"
+  },
+  {
+    "character": "🕵‍♂",
+    "description": ":male_detective:"
+  },
+  {
+    "character": "♂",
+    "description": ":male_sign:"
+  },
+  {
+    "character": "🇲‍🇱",
+    "description": ":mali:"
+  },
+  {
+    "character": "🇲‍🇹",
+    "description": ":malta:"
+  },
+  {
+    "character": "👨",
+    "description": ":man:"
+  },
+  {
+    "character": "👨‍🎨",
+    "description": ":man_artist:"
+  },
+  {
+    "character": "👨‍🚀",
+    "description": ":man_astronaut:"
+  },
+  {
+    "character": "🤸‍♂",
+    "description": ":man_cartwheeling:"
+  },
+  {
+    "character": "👨‍🍳",
+    "description": ":man_cook:"
+  },
+  {
+    "character": "🕺",
+    "description": ":man_dancing:"
+  },
+  {
+    "character": "🤦‍♂",
+    "description": ":man_facepalming:"
+  },
+  {
+    "character": "👨‍🏭",
+    "description": ":man_factory_worker:"
+  },
+  {
+    "character": "👨‍🌾",
+    "description": ":man_farmer:"
+  },
+  {
+    "character": "👨‍🚒",
+    "description": ":man_firefighter:"
+  },
+  {
+    "character": "👨‍⚕",
+    "description": ":man_health_worker:"
+  },
+  {
+    "character": "👨‍🦽",
+    "description": ":man_in_manual_wheelchair:"
+  },
+  {
+    "character": "👨‍🦼",
+    "description": ":man_in_motorized_wheelchair:"
+  },
+  {
+    "character": "🤵",
+    "description": ":man_in_tuxedo:"
+  },
+  {
+    "character": "👨‍⚖",
+    "description": ":man_judge:"
+  },
+  {
+    "character": "🤹‍♂",
+    "description": ":man_juggling:"
+  },
+  {
+    "character": "👨‍🔧",
+    "description": ":man_mechanic:"
+  },
+  {
+    "character": "👨‍💼",
+    "description": ":man_office_worker:"
+  },
+  {
+    "character": "👨‍✈",
+    "description": ":man_pilot:"
+  },
+  {
+    "character": "🤾‍♂",
+    "description": ":man_playing_handball:"
+  },
+  {
+    "character": "🤽‍♂",
+    "description": ":man_playing_water_polo:"
+  },
+  {
+    "character": "👨‍🔬",
+    "description": ":man_scientist:"
+  },
+  {
+    "character": "🤷‍♂",
+    "description": ":man_shrugging:"
+  },
+  {
+    "character": "👨‍🎤",
+    "description": ":man_singer:"
+  },
+  {
+    "character": "👨‍🎓",
+    "description": ":man_student:"
+  },
+  {
+    "character": "👨‍🏫",
+    "description": ":man_teacher:"
+  },
+  {
+    "character": "👨‍💻",
+    "description": ":man_technologist:"
+  },
+  {
+    "character": "👲",
+    "description": ":man_with_gua_pi_mao:"
+  },
+  {
+    "character": "👨‍🦯",
+    "description": ":man_with_probing_cane:"
+  },
+  {
+    "character": "👳‍♂",
+    "description": ":man_with_turban:"
+  },
+  {
+    "character": "🍊",
+    "description": ":mandarin:"
+  },
+  {
+    "character": "🥭",
+    "description": ":mango:"
+  },
+  {
+    "character": "👞",
+    "description": ":mans_shoe:"
+  },
+  {
+    "character": "🕰",
+    "description": ":mantelpiece_clock:"
+  },
+  {
+    "character": "🦽",
+    "description": ":manual_wheelchair:"
+  },
+  {
+    "character": "🍁",
+    "description": ":maple_leaf:"
+  },
+  {
+    "character": "🇲‍🇭",
+    "description": ":marshall_islands:"
+  },
+  {
+    "character": "🥋",
+    "description": ":martial_arts_uniform:"
+  },
+  {
+    "character": "🇲‍🇶",
+    "description": ":martinique:"
+  },
+  {
+    "character": "😷",
+    "description": ":mask:"
+  },
+  {
+    "character": "💆",
+    "description": ":massage:"
+  },
+  {
+    "character": "💆‍♂",
+    "description": ":massage_man:"
+  },
+  {
+    "character": "💆‍♀",
+    "description": ":massage_woman:"
+  },
+  {
+    "character": "🧉",
+    "description": ":mate:"
+  },
+  {
+    "character": "🇲‍🇷",
+    "description": ":mauritania:"
+  },
+  {
+    "character": "🇲‍🇺",
+    "description": ":mauritius:"
+  },
+  {
+    "character": "🇾‍🇹",
+    "description": ":mayotte:"
+  },
+  {
+    "character": "🍖",
+    "description": ":meat_on_bone:"
+  },
+  {
+    "character": "🧑‍🔧",
+    "description": ":mechanic:"
+  },
+  {
+    "character": "🦾",
+    "description": ":mechanical_arm:"
+  },
+  {
+    "character": "🦿",
+    "description": ":mechanical_leg:"
+  },
+  {
+    "character": "🎖",
+    "description": ":medal_military:"
+  },
+  {
+    "character": "🏅",
+    "description": ":medal_sports:"
+  },
+  {
+    "character": "⚕",
+    "description": ":medical_symbol:"
+  },
+  {
+    "character": "📣",
+    "description": ":mega:"
+  },
+  {
+    "character": "🍈",
+    "description": ":melon:"
+  },
+  {
+    "character": "📝",
+    "description": ":memo:"
+  },
+  {
+    "character": "🤼‍♂",
+    "description": ":men_wrestling:"
+  },
+  {
+    "character": "🕎",
+    "description": ":menorah:"
+  },
+  {
+    "character": "🚹",
+    "description": ":mens:"
+  },
+  {
+    "character": "🧜‍♀",
+    "description": ":mermaid:"
+  },
+  {
+    "character": "🧜‍♂",
+    "description": ":merman:"
+  },
+  {
+    "character": "🧜",
+    "description": ":merperson:"
+  },
+  {
+    "character": "🤘",
+    "description": ":metal:"
+  },
+  {
+    "character": "🚇",
+    "description": ":metro:"
+  },
+  {
+    "character": "🇲‍🇽",
+    "description": ":mexico:"
+  },
+  {
+    "character": "🦠",
+    "description": ":microbe:"
+  },
+  {
+    "character": "🇫‍🇲",
+    "description": ":micronesia:"
+  },
+  {
+    "character": "🎤",
+    "description": ":microphone:"
+  },
+  {
+    "character": "🔬",
+    "description": ":microscope:"
+  },
+  {
+    "character": "🖕",
+    "description": ":middle_finger:"
+  },
+  {
+    "character": "🥛",
+    "description": ":milk_glass:"
+  },
+  {
+    "character": "🌌",
+    "description": ":milky_way:"
+  },
+  {
+    "character": "🚐",
+    "description": ":minibus:"
+  },
+  {
+    "character": "💽",
+    "description": ":minidisc:"
+  },
+  {
+    "character": "📴",
+    "description": ":mobile_phone_off:"
+  },
+  {
+    "character": "🇲‍🇩",
+    "description": ":moldova:"
+  },
+  {
+    "character": "🇲‍🇨",
+    "description": ":monaco:"
+  },
+  {
+    "character": "🤑",
+    "description": ":money_mouth_face:"
+  },
+  {
+    "character": "💸",
+    "description": ":money_with_wings:"
+  },
+  {
+    "character": "💰",
+    "description": ":moneybag:"
+  },
+  {
+    "character": "🇲‍🇳",
+    "description": ":mongolia:"
+  },
+  {
+    "character": "🐒",
+    "description": ":monkey:"
+  },
+  {
+    "character": "🐵",
+    "description": ":monkey_face:"
+  },
+  {
+    "character": "🧐",
+    "description": ":monocle_face:"
+  },
+  {
+    "character": "🚝",
+    "description": ":monorail:"
+  },
+  {
+    "character": "🇲‍🇪",
+    "description": ":montenegro:"
+  },
+  {
+    "character": "🇲‍🇸",
+    "description": ":montserrat:"
+  },
+  {
+    "character": "🌔",
+    "description": ":moon:"
+  },
+  {
+    "character": "🥮",
+    "description": ":moon_cake:"
+  },
+  {
+    "character": "🇲‍🇦",
+    "description": ":morocco:"
+  },
+  {
+    "character": "🎓",
+    "description": ":mortar_board:"
+  },
+  {
+    "character": "🕌",
+    "description": ":mosque:"
+  },
+  {
+    "character": "🦟",
+    "description": ":mosquito:"
+  },
+  {
+    "character": "🛥",
+    "description": ":motor_boat:"
+  },
+  {
+    "character": "🛵",
+    "description": ":motor_scooter:"
+  },
+  {
+    "character": "🏍",
+    "description": ":motorcycle:"
+  },
+  {
+    "character": "🦼",
+    "description": ":motorized_wheelchair:"
+  },
+  {
+    "character": "🛣",
+    "description": ":motorway:"
+  },
+  {
+    "character": "🗻",
+    "description": ":mount_fuji:"
+  },
+  {
+    "character": "⛰",
+    "description": ":mountain:"
+  },
+  {
+    "character": "🚵",
+    "description": ":mountain_bicyclist:"
+  },
+  {
+    "character": "🚵‍♂",
+    "description": ":mountain_biking_man:"
+  },
+  {
+    "character": "🚵‍♀",
+    "description": ":mountain_biking_woman:"
+  },
+  {
+    "character": "🚠",
+    "description": ":mountain_cableway:"
+  },
+  {
+    "character": "🚞",
+    "description": ":mountain_railway:"
+  },
+  {
+    "character": "🏔",
+    "description": ":mountain_snow:"
+  },
+  {
+    "character": "🐭",
+    "description": ":mouse:"
+  },
+  {
+    "character": "🐁",
+    "description": ":mouse2:"
+  },
+  {
+    "character": "🎥",
+    "description": ":movie_camera:"
+  },
+  {
+    "character": "🗿",
+    "description": ":moyai:"
+  },
+  {
+    "character": "🇲‍🇿",
+    "description": ":mozambique:"
+  },
+  {
+    "character": "🤶",
+    "description": ":mrs_claus:"
+  },
+  {
+    "character": "💪",
+    "description": ":muscle:"
+  },
+  {
+    "character": "🍄",
+    "description": ":mushroom:"
+  },
+  {
+    "character": "🎹",
+    "description": ":musical_keyboard:"
+  },
+  {
+    "character": "🎵",
+    "description": ":musical_note:"
+  },
+  {
+    "character": "🎼",
+    "description": ":musical_score:"
+  },
+  {
+    "character": "🔇",
+    "description": ":mute:"
+  },
+  {
+    "character": "🇲‍🇲",
+    "description": ":myanmar:"
+  },
+  {
+    "character": "💅",
+    "description": ":nail_care:"
+  },
+  {
+    "character": "📛",
+    "description": ":name_badge:"
+  },
+  {
+    "character": "🇳‍🇦",
+    "description": ":namibia:"
+  },
+  {
+    "character": "🏞",
+    "description": ":national_park:"
+  },
+  {
+    "character": "🇳‍🇷",
+    "description": ":nauru:"
+  },
+  {
+    "character": "🤢",
+    "description": ":nauseated_face:"
+  },
+  {
+    "character": "🧿",
+    "description": ":nazar_amulet:"
+  },
+  {
+    "character": "👔",
+    "description": ":necktie:"
+  },
+  {
+    "character": "❎",
+    "description": ":negative_squared_cross_mark:"
+  },
+  {
+    "character": "🇳‍🇵",
+    "description": ":nepal:"
+  },
+  {
+    "character": "🤓",
+    "description": ":nerd_face:"
+  },
+  {
+    "character": "🇳‍🇱",
+    "description": ":netherlands:"
+  },
+  {
+    "character": "😐",
+    "description": ":neutral_face:"
+  },
+  {
+    "character": "🆕",
+    "description": ":new:"
+  },
+  {
+    "character": "🇳‍🇨",
+    "description": ":new_caledonia:"
+  },
+  {
+    "character": "🌑",
+    "description": ":new_moon:"
+  },
+  {
+    "character": "🌚",
+    "description": ":new_moon_with_face:"
+  },
+  {
+    "character": "🇳‍🇿",
+    "description": ":new_zealand:"
+  },
+  {
+    "character": "📰",
+    "description": ":newspaper:"
+  },
+  {
+    "character": "🗞",
+    "description": ":newspaper_roll:"
+  },
+  {
+    "character": "⏭",
+    "description": ":next_track_button:"
+  },
+  {
+    "character": "🆖",
+    "description": ":ng:"
+  },
+  {
+    "character": "🙅‍♂",
+    "description": ":ng_man:"
+  },
+  {
+    "character": "🙅‍♀",
+    "description": ":ng_woman:"
+  },
+  {
+    "character": "🇳‍🇮",
+    "description": ":nicaragua:"
+  },
+  {
+    "character": "🇳‍🇪",
+    "description": ":niger:"
+  },
+  {
+    "character": "🇳‍🇬",
+    "description": ":nigeria:"
+  },
+  {
+    "character": "🌃",
+    "description": ":night_with_stars:"
+  },
+  {
+    "character": "9‍⃣",
+    "description": ":nine:"
+  },
+  {
+    "character": "🇳‍🇺",
+    "description": ":niue:"
+  },
+  {
+    "character": "🔕",
+    "description": ":no_bell:"
+  },
+  {
+    "character": "🚳",
+    "description": ":no_bicycles:"
+  },
+  {
+    "character": "⛔",
+    "description": ":no_entry:"
+  },
+  {
+    "character": "🚫",
+    "description": ":no_entry_sign:"
+  },
+  {
+    "character": "🙅",
+    "description": ":no_good:"
+  },
+  {
+    "character": "🙅‍♂",
+    "description": ":no_good_man:"
+  },
+  {
+    "character": "🙅‍♀",
+    "description": ":no_good_woman:"
+  },
+  {
+    "character": "📵",
+    "description": ":no_mobile_phones:"
+  },
+  {
+    "character": "😶",
+    "description": ":no_mouth:"
+  },
+  {
+    "character": "🚷",
+    "description": ":no_pedestrians:"
+  },
+  {
+    "character": "🚭",
+    "description": ":no_smoking:"
+  },
+  {
+    "character": "🚱",
+    "description": ":non-potable_water:"
+  },
+  {
+    "character": "🇳‍🇫",
+    "description": ":norfolk_island:"
+  },
+  {
+    "character": "🇰‍🇵",
+    "description": ":north_korea:"
+  },
+  {
+    "character": "🇲‍🇵",
+    "description": ":northern_mariana_islands:"
+  },
+  {
+    "character": "🇳‍🇴",
+    "description": ":norway:"
+  },
+  {
+    "character": "👃",
+    "description": ":nose:"
+  },
+  {
+    "character": "📓",
+    "description": ":notebook:"
+  },
+  {
+    "character": "📔",
+    "description": ":notebook_with_decorative_cover:"
+  },
+  {
+    "character": "🎶",
+    "description": ":notes:"
+  },
+  {
+    "character": "🔩",
+    "description": ":nut_and_bolt:"
+  },
+  {
+    "character": "⭕",
+    "description": ":o:"
+  },
+  {
+    "character": "🅾",
+    "description": ":o2:"
+  },
+  {
+    "character": "🌊",
+    "description": ":ocean:"
+  },
+  {
+    "character": "🐙",
+    "description": ":octopus:"
+  },
+  {
+    "character": "🍢",
+    "description": ":oden:"
+  },
+  {
+    "character": "🏢",
+    "description": ":office:"
+  },
+  {
+    "character": "🧑‍💼",
+    "description": ":office_worker:"
+  },
+  {
+    "character": "🛢",
+    "description": ":oil_drum:"
+  },
+  {
+    "character": "🆗",
+    "description": ":ok:"
+  },
+  {
+    "character": "👌",
+    "description": ":ok_hand:"
+  },
+  {
+    "character": "🙆‍♂",
+    "description": ":ok_man:"
+  },
+  {
+    "character": "🙆",
+    "description": ":ok_person:"
+  },
+  {
+    "character": "🙆‍♀",
+    "description": ":ok_woman:"
+  },
+  {
+    "character": "🗝",
+    "description": ":old_key:"
+  },
+  {
+    "character": "🧓",
+    "description": ":older_adult:"
+  },
+  {
+    "character": "👴",
+    "description": ":older_man:"
+  },
+  {
+    "character": "👵",
+    "description": ":older_woman:"
+  },
+  {
+    "character": "🕉",
+    "description": ":om:"
+  },
+  {
+    "character": "🇴‍🇲",
+    "description": ":oman:"
+  },
+  {
+    "character": "🔛",
+    "description": ":on:"
+  },
+  {
+    "character": "🚘",
+    "description": ":oncoming_automobile:"
+  },
+  {
+    "character": "🚍",
+    "description": ":oncoming_bus:"
+  },
+  {
+    "character": "🚔",
+    "description": ":oncoming_police_car:"
+  },
+  {
+    "character": "🚖",
+    "description": ":oncoming_taxi:"
+  },
+  {
+    "character": "1‍⃣",
+    "description": ":one:"
+  },
+  {
+    "character": "🩱",
+    "description": ":one_piece_swimsuit:"
+  },
+  {
+    "character": "🧅",
+    "description": ":onion:"
+  },
+  {
+    "character": "📖",
+    "description": ":open_book:"
+  },
+  {
+    "character": "📂",
+    "description": ":open_file_folder:"
+  },
+  {
+    "character": "👐",
+    "description": ":open_hands:"
+  },
+  {
+    "character": "😮",
+    "description": ":open_mouth:"
+  },
+  {
+    "character": "☂",
+    "description": ":open_umbrella:"
+  },
+  {
+    "character": "⛎",
+    "description": ":ophiuchus:"
+  },
+  {
+    "character": "🍊",
+    "description": ":orange:"
+  },
+  {
+    "character": "📙",
+    "description": ":orange_book:"
+  },
+  {
+    "character": "🟠",
+    "description": ":orange_circle:"
+  },
+  {
+    "character": "🧡",
+    "description": ":orange_heart:"
+  },
+  {
+    "character": "🟧",
+    "description": ":orange_square:"
+  },
+  {
+    "character": "🦧",
+    "description": ":orangutan:"
+  },
+  {
+    "character": "☦",
+    "description": ":orthodox_cross:"
+  },
+  {
+    "character": "🦦",
+    "description": ":otter:"
+  },
+  {
+    "character": "📤",
+    "description": ":outbox_tray:"
+  },
+  {
+    "character": "🦉",
+    "description": ":owl:"
+  },
+  {
+    "character": "🐂",
+    "description": ":ox:"
+  },
+  {
+    "character": "🦪",
+    "description": ":oyster:"
+  },
+  {
+    "character": "📦",
+    "description": ":package:"
+  },
+  {
+    "character": "📄",
+    "description": ":page_facing_up:"
+  },
+  {
+    "character": "📃",
+    "description": ":page_with_curl:"
+  },
+  {
+    "character": "📟",
+    "description": ":pager:"
+  },
+  {
+    "character": "🖌",
+    "description": ":paintbrush:"
+  },
+  {
+    "character": "🇵‍🇰",
+    "description": ":pakistan:"
+  },
+  {
+    "character": "🇵‍🇼",
+    "description": ":palau:"
+  },
+  {
+    "character": "🇵‍🇸",
+    "description": ":palestinian_territories:"
+  },
+  {
+    "character": "🌴",
+    "description": ":palm_tree:"
+  },
+  {
+    "character": "🤲",
+    "description": ":palms_up_together:"
+  },
+  {
+    "character": "🇵‍🇦",
+    "description": ":panama:"
+  },
+  {
+    "character": "🥞",
+    "description": ":pancakes:"
+  },
+  {
+    "character": "🐼",
+    "description": ":panda_face:"
+  },
+  {
+    "character": "📎",
+    "description": ":paperclip:"
+  },
+  {
+    "character": "🖇",
+    "description": ":paperclips:"
+  },
+  {
+    "character": "🇵‍🇬",
+    "description": ":papua_new_guinea:"
+  },
+  {
+    "character": "🪂",
+    "description": ":parachute:"
+  },
+  {
+    "character": "🇵‍🇾",
+    "description": ":paraguay:"
+  },
+  {
+    "character": "⛱",
+    "description": ":parasol_on_ground:"
+  },
+  {
+    "character": "🅿",
+    "description": ":parking:"
+  },
+  {
+    "character": "🦜",
+    "description": ":parrot:"
+  },
+  {
+    "character": "〽",
+    "description": ":part_alternation_mark:"
+  },
+  {
+    "character": "⛅",
+    "description": ":partly_sunny:"
+  },
+  {
+    "character": "🥳",
+    "description": ":partying_face:"
+  },
+  {
+    "character": "🛳",
+    "description": ":passenger_ship:"
+  },
+  {
+    "character": "🛂",
+    "description": ":passport_control:"
+  },
+  {
+    "character": "⏸",
+    "description": ":pause_button:"
+  },
+  {
+    "character": "🐾",
+    "description": ":paw_prints:"
+  },
+  {
+    "character": "☮",
+    "description": ":peace_symbol:"
+  },
+  {
+    "character": "🍑",
+    "description": ":peach:"
+  },
+  {
+    "character": "🦚",
+    "description": ":peacock:"
+  },
+  {
+    "character": "🥜",
+    "description": ":peanuts:"
+  },
+  {
+    "character": "🍐",
+    "description": ":pear:"
+  },
+  {
+    "character": "🖊",
+    "description": ":pen:"
+  },
+  {
+    "character": "📝",
+    "description": ":pencil:"
+  },
+  {
+    "character": "✏",
+    "description": ":pencil2:"
+  },
+  {
+    "character": "🐧",
+    "description": ":penguin:"
+  },
+  {
+    "character": "😔",
+    "description": ":pensive:"
+  },
+  {
+    "character": "🧑‍🤝‍🧑",
+    "description": ":people_holding_hands:"
+  },
+  {
+    "character": "🎭",
+    "description": ":performing_arts:"
+  },
+  {
+    "character": "😣",
+    "description": ":persevere:"
+  },
+  {
+    "character": "🧑‍🦲",
+    "description": ":person_bald:"
+  },
+  {
+    "character": "🧑‍🦱",
+    "description": ":person_curly_hair:"
+  },
+  {
+    "character": "🤺",
+    "description": ":person_fencing:"
+  },
+  {
+    "character": "🧑‍🦽",
+    "description": ":person_in_manual_wheelchair:"
+  },
+  {
+    "character": "🧑‍🦼",
+    "description": ":person_in_motorized_wheelchair:"
+  },
+  {
+    "character": "🧑‍🦰",
+    "description": ":person_red_hair:"
+  },
+  {
+    "character": "🧑‍🦳",
+    "description": ":person_white_hair:"
+  },
+  {
+    "character": "🧑‍🦯",
+    "description": ":person_with_probing_cane:"
+  },
+  {
+    "character": "👳",
+    "description": ":person_with_turban:"
+  },
+  {
+    "character": "🇵‍🇪",
+    "description": ":peru:"
+  },
+  {
+    "character": "🧫",
+    "description": ":petri_dish:"
+  },
+  {
+    "character": "🇵‍🇭",
+    "description": ":philippines:"
+  },
+  {
+    "character": "☎",
+    "description": ":phone:"
+  },
+  {
+    "character": "⛏",
+    "description": ":pick:"
+  },
+  {
+    "character": "🥧",
+    "description": ":pie:"
+  },
+  {
+    "character": "🐷",
+    "description": ":pig:"
+  },
+  {
+    "character": "🐖",
+    "description": ":pig2:"
+  },
+  {
+    "character": "🐽",
+    "description": ":pig_nose:"
+  },
+  {
+    "character": "💊",
+    "description": ":pill:"
+  },
+  {
+    "character": "🧑‍✈",
+    "description": ":pilot:"
+  },
+  {
+    "character": "🤏",
+    "description": ":pinching_hand:"
+  },
+  {
+    "character": "🍍",
+    "description": ":pineapple:"
+  },
+  {
+    "character": "🏓",
+    "description": ":ping_pong:"
+  },
+  {
+    "character": "🏴‍☠",
+    "description": ":pirate_flag:"
+  },
+  {
+    "character": "♓",
+    "description": ":pisces:"
+  },
+  {
+    "character": "🇵‍🇳",
+    "description": ":pitcairn_islands:"
+  },
+  {
+    "character": "🍕",
+    "description": ":pizza:"
+  },
+  {
+    "character": "🛐",
+    "description": ":place_of_worship:"
+  },
+  {
+    "character": "🍽",
+    "description": ":plate_with_cutlery:"
+  },
+  {
+    "character": "⏯",
+    "description": ":play_or_pause_button:"
+  },
+  {
+    "character": "🥺",
+    "description": ":pleading_face:"
+  },
+  {
+    "character": "👇",
+    "description": ":point_down:"
+  },
+  {
+    "character": "👈",
+    "description": ":point_left:"
+  },
+  {
+    "character": "👉",
+    "description": ":point_right:"
+  },
+  {
+    "character": "☝",
+    "description": ":point_up:"
+  },
+  {
+    "character": "👆",
+    "description": ":point_up_2:"
+  },
+  {
+    "character": "🇵‍🇱",
+    "description": ":poland:"
+  },
+  {
+    "character": "🚓",
+    "description": ":police_car:"
+  },
+  {
+    "character": "👮",
+    "description": ":police_officer:"
+  },
+  {
+    "character": "👮‍♂",
+    "description": ":policeman:"
+  },
+  {
+    "character": "👮‍♀",
+    "description": ":policewoman:"
+  },
+  {
+    "character": "🐩",
+    "description": ":poodle:"
+  },
+  {
+    "character": "💩",
+    "description": ":poop:"
+  },
+  {
+    "character": "🍿",
+    "description": ":popcorn:"
+  },
+  {
+    "character": "🇵‍🇹",
+    "description": ":portugal:"
+  },
+  {
+    "character": "🏣",
+    "description": ":post_office:"
+  },
+  {
+    "character": "📯",
+    "description": ":postal_horn:"
+  },
+  {
+    "character": "📮",
+    "description": ":postbox:"
+  },
+  {
+    "character": "🚰",
+    "description": ":potable_water:"
+  },
+  {
+    "character": "🥔",
+    "description": ":potato:"
+  },
+  {
+    "character": "👝",
+    "description": ":pouch:"
+  },
+  {
+    "character": "🍗",
+    "description": ":poultry_leg:"
+  },
+  {
+    "character": "💷",
+    "description": ":pound:"
+  },
+  {
+    "character": "😡",
+    "description": ":pout:"
+  },
+  {
+    "character": "😾",
+    "description": ":pouting_cat:"
+  },
+  {
+    "character": "🙎",
+    "description": ":pouting_face:"
+  },
+  {
+    "character": "🙎‍♂",
+    "description": ":pouting_man:"
+  },
+  {
+    "character": "🙎‍♀",
+    "description": ":pouting_woman:"
+  },
+  {
+    "character": "🙏",
+    "description": ":pray:"
+  },
+  {
+    "character": "📿",
+    "description": ":prayer_beads:"
+  },
+  {
+    "character": "🤰",
+    "description": ":pregnant_woman:"
+  },
+  {
+    "character": "🥨",
+    "description": ":pretzel:"
+  },
+  {
+    "character": "⏮",
+    "description": ":previous_track_button:"
+  },
+  {
+    "character": "🤴",
+    "description": ":prince:"
+  },
+  {
+    "character": "👸",
+    "description": ":princess:"
+  },
+  {
+    "character": "🖨",
+    "description": ":printer:"
+  },
+  {
+    "character": "🦯",
+    "description": ":probing_cane:"
+  },
+  {
+    "character": "🇵‍🇷",
+    "description": ":puerto_rico:"
+  },
+  {
+    "character": "👊",
+    "description": ":punch:"
+  },
+  {
+    "character": "🟣",
+    "description": ":purple_circle:"
+  },
+  {
+    "character": "💜",
+    "description": ":purple_heart:"
+  },
+  {
+    "character": "🟪",
+    "description": ":purple_square:"
+  },
+  {
+    "character": "👛",
+    "description": ":purse:"
+  },
+  {
+    "character": "📌",
+    "description": ":pushpin:"
+  },
+  {
+    "character": "🚮",
+    "description": ":put_litter_in_its_place:"
+  },
+  {
+    "character": "🇶‍🇦",
+    "description": ":qatar:"
+  },
+  {
+    "character": "❓",
+    "description": ":question:"
+  },
+  {
+    "character": "🐰",
+    "description": ":rabbit:"
+  },
+  {
+    "character": "🐇",
+    "description": ":rabbit2:"
+  },
+  {
+    "character": "🦝",
+    "description": ":raccoon:"
+  },
+  {
+    "character": "🐎",
+    "description": ":racehorse:"
+  },
+  {
+    "character": "🏎",
+    "description": ":racing_car:"
+  },
+  {
+    "character": "📻",
+    "description": ":radio:"
+  },
+  {
+    "character": "🔘",
+    "description": ":radio_button:"
+  },
+  {
+    "character": "☢",
+    "description": ":radioactive:"
+  },
+  {
+    "character": "😡",
+    "description": ":rage:"
+  },
+  {
+    "character": "🚃",
+    "description": ":railway_car:"
+  },
+  {
+    "character": "🛤",
+    "description": ":railway_track:"
+  },
+  {
+    "character": "🌈",
+    "description": ":rainbow:"
+  },
+  {
+    "character": "🏳‍🌈",
+    "description": ":rainbow_flag:"
+  },
+  {
+    "character": "🤚",
+    "description": ":raised_back_of_hand:"
+  },
+  {
+    "character": "🤨",
+    "description": ":raised_eyebrow:"
+  },
+  {
+    "character": "✋",
+    "description": ":raised_hand:"
+  },
+  {
+    "character": "🖐",
+    "description": ":raised_hand_with_fingers_splayed:"
+  },
+  {
+    "character": "🙌",
+    "description": ":raised_hands:"
+  },
+  {
+    "character": "🙋",
+    "description": ":raising_hand:"
+  },
+  {
+    "character": "🙋‍♂",
+    "description": ":raising_hand_man:"
+  },
+  {
+    "character": "🙋‍♀",
+    "description": ":raising_hand_woman:"
+  },
+  {
+    "character": "🐏",
+    "description": ":ram:"
+  },
+  {
+    "character": "🍜",
+    "description": ":ramen:"
+  },
+  {
+    "character": "🐀",
+    "description": ":rat:"
+  },
+  {
+    "character": "🪒",
+    "description": ":razor:"
+  },
+  {
+    "character": "🧾",
+    "description": ":receipt:"
+  },
+  {
+    "character": "⏺",
+    "description": ":record_button:"
+  },
+  {
+    "character": "♻",
+    "description": ":recycle:"
+  },
+  {
+    "character": "🚗",
+    "description": ":red_car:"
+  },
+  {
+    "character": "🔴",
+    "description": ":red_circle:"
+  },
+  {
+    "character": "🧧",
+    "description": ":red_envelope:"
+  },
+  {
+    "character": "👨‍🦰",
+    "description": ":red_haired_man:"
+  },
+  {
+    "character": "👩‍🦰",
+    "description": ":red_haired_woman:"
+  },
+  {
+    "character": "🟥",
+    "description": ":red_square:"
+  },
+  {
+    "character": "®",
+    "description": ":registered:"
+  },
+  {
+    "character": "☺",
+    "description": ":relaxed:"
+  },
+  {
+    "character": "😌",
+    "description": ":relieved:"
+  },
+  {
+    "character": "🎗",
+    "description": ":reminder_ribbon:"
+  },
+  {
+    "character": "🔁",
+    "description": ":repeat:"
+  },
+  {
+    "character": "🔂",
+    "description": ":repeat_one:"
+  },
+  {
+    "character": "⛑",
+    "description": ":rescue_worker_helmet:"
+  },
+  {
+    "character": "🚻",
+    "description": ":restroom:"
+  },
+  {
+    "character": "🇷‍🇪",
+    "description": ":reunion:"
+  },
+  {
+    "character": "💞",
+    "description": ":revolving_hearts:"
+  },
+  {
+    "character": "⏪",
+    "description": ":rewind:"
+  },
+  {
+    "character": "🦏",
+    "description": ":rhinoceros:"
+  },
+  {
+    "character": "🎀",
+    "description": ":ribbon:"
+  },
+  {
+    "character": "🍚",
+    "description": ":rice:"
+  },
+  {
+    "character": "🍙",
+    "description": ":rice_ball:"
+  },
+  {
+    "character": "🍘",
+    "description": ":rice_cracker:"
+  },
+  {
+    "character": "🎑",
+    "description": ":rice_scene:"
+  },
+  {
+    "character": "🗯",
+    "description": ":right_anger_bubble:"
+  },
+  {
+    "character": "💍",
+    "description": ":ring:"
+  },
+  {
+    "character": "🪐",
+    "description": ":ringed_planet:"
+  },
+  {
+    "character": "🤖",
+    "description": ":robot:"
+  },
+  {
+    "character": "🚀",
+    "description": ":rocket:"
+  },
+  {
+    "character": "🤣",
+    "description": ":rofl:"
+  },
+  {
+    "character": "🙄",
+    "description": ":roll_eyes:"
+  },
+  {
+    "character": "🧻",
+    "description": ":roll_of_paper:"
+  },
+  {
+    "character": "🎢",
+    "description": ":roller_coaster:"
+  },
+  {
+    "character": "🇷‍🇴",
+    "description": ":romania:"
+  },
+  {
+    "character": "🐓",
+    "description": ":rooster:"
+  },
+  {
+    "character": "🌹",
+    "description": ":rose:"
+  },
+  {
+    "character": "🏵",
+    "description": ":rosette:"
+  },
+  {
+    "character": "🚨",
+    "description": ":rotating_light:"
+  },
+  {
+    "character": "📍",
+    "description": ":round_pushpin:"
+  },
+  {
+    "character": "🚣",
+    "description": ":rowboat:"
+  },
+  {
+    "character": "🚣‍♂",
+    "description": ":rowing_man:"
+  },
+  {
+    "character": "🚣‍♀",
+    "description": ":rowing_woman:"
+  },
+  {
+    "character": "🇷‍🇺",
+    "description": ":ru:"
+  },
+  {
+    "character": "🏉",
+    "description": ":rugby_football:"
+  },
+  {
+    "character": "🏃",
+    "description": ":runner:"
+  },
+  {
+    "character": "🏃",
+    "description": ":running:"
+  },
+  {
+    "character": "🏃‍♂",
+    "description": ":running_man:"
+  },
+  {
+    "character": "🎽",
+    "description": ":running_shirt_with_sash:"
+  },
+  {
+    "character": "🏃‍♀",
+    "description": ":running_woman:"
+  },
+  {
+    "character": "🇷‍🇼",
+    "description": ":rwanda:"
+  },
+  {
+    "character": "🈂",
+    "description": ":sa:"
+  },
+  {
+    "character": "🧷",
+    "description": ":safety_pin:"
+  },
+  {
+    "character": "🦺",
+    "description": ":safety_vest:"
+  },
+  {
+    "character": "♐",
+    "description": ":sagittarius:"
+  },
+  {
+    "character": "⛵",
+    "description": ":sailboat:"
+  },
+  {
+    "character": "🍶",
+    "description": ":sake:"
+  },
+  {
+    "character": "🧂",
+    "description": ":salt:"
+  },
+  {
+    "character": "🇼‍🇸",
+    "description": ":samoa:"
+  },
+  {
+    "character": "🇸‍🇲",
+    "description": ":san_marino:"
+  },
+  {
+    "character": "👡",
+    "description": ":sandal:"
+  },
+  {
+    "character": "🥪",
+    "description": ":sandwich:"
+  },
+  {
+    "character": "🎅",
+    "description": ":santa:"
+  },
+  {
+    "character": "🇸‍🇹",
+    "description": ":sao_tome_principe:"
+  },
+  {
+    "character": "🥻",
+    "description": ":sari:"
+  },
+  {
+    "character": "💁‍♂",
+    "description": ":sassy_man:"
+  },
+  {
+    "character": "💁‍♀",
+    "description": ":sassy_woman:"
+  },
+  {
+    "character": "📡",
+    "description": ":satellite:"
+  },
+  {
+    "character": "😆",
+    "description": ":satisfied:"
+  },
+  {
+    "character": "🇸‍🇦",
+    "description": ":saudi_arabia:"
+  },
+  {
+    "character": "🧖‍♂",
+    "description": ":sauna_man:"
+  },
+  {
+    "character": "🧖",
+    "description": ":sauna_person:"
+  },
+  {
+    "character": "🧖‍♀",
+    "description": ":sauna_woman:"
+  },
+  {
+    "character": "🦕",
+    "description": ":sauropod:"
+  },
+  {
+    "character": "🎷",
+    "description": ":saxophone:"
+  },
+  {
+    "character": "🧣",
+    "description": ":scarf:"
+  },
+  {
+    "character": "🏫",
+    "description": ":school:"
+  },
+  {
+    "character": "🎒",
+    "description": ":school_satchel:"
+  },
+  {
+    "character": "🧑‍🔬",
+    "description": ":scientist:"
+  },
+  {
+    "character": "✂",
+    "description": ":scissors:"
+  },
+  {
+    "character": "🦂",
+    "description": ":scorpion:"
+  },
+  {
+    "character": "♏",
+    "description": ":scorpius:"
+  },
+  {
+    "character": "🏴‍󠁧‍󠁢‍󠁳‍󠁣‍󠁴‍󠁿",
+    "description": ":scotland:"
+  },
+  {
+    "character": "😱",
+    "description": ":scream:"
+  },
+  {
+    "character": "🙀",
+    "description": ":scream_cat:"
+  },
+  {
+    "character": "📜",
+    "description": ":scroll:"
+  },
+  {
+    "character": "💺",
+    "description": ":seat:"
+  },
+  {
+    "character": "㊙",
+    "description": ":secret:"
+  },
+  {
+    "character": "🙈",
+    "description": ":see_no_evil:"
+  },
+  {
+    "character": "🌱",
+    "description": ":seedling:"
+  },
+  {
+    "character": "🤳",
+    "description": ":selfie:"
+  },
+  {
+    "character": "🇸‍🇳",
+    "description": ":senegal:"
+  },
+  {
+    "character": "🇷‍🇸",
+    "description": ":serbia:"
+  },
+  {
+    "character": "🐕‍🦺",
+    "description": ":service_dog:"
+  },
+  {
+    "character": "7‍⃣",
+    "description": ":seven:"
+  },
+  {
+    "character": "🇸‍🇨",
+    "description": ":seychelles:"
+  },
+  {
+    "character": "🥘",
+    "description": ":shallow_pan_of_food:"
+  },
+  {
+    "character": "☘",
+    "description": ":shamrock:"
+  },
+  {
+    "character": "🦈",
+    "description": ":shark:"
+  },
+  {
+    "character": "🍧",
+    "description": ":shaved_ice:"
+  },
+  {
+    "character": "🐑",
+    "description": ":sheep:"
+  },
+  {
+    "character": "🐚",
+    "description": ":shell:"
+  },
+  {
+    "character": "🛡",
+    "description": ":shield:"
+  },
+  {
+    "character": "⛩",
+    "description": ":shinto_shrine:"
+  },
+  {
+    "character": "🚢",
+    "description": ":ship:"
+  },
+  {
+    "character": "👕",
+    "description": ":shirt:"
+  },
+  {
+    "character": "💩",
+    "description": ":shit:"
+  },
+  {
+    "character": "👞",
+    "description": ":shoe:"
+  },
+  {
+    "character": "🛍",
+    "description": ":shopping:"
+  },
+  {
+    "character": "🛒",
+    "description": ":shopping_cart:"
+  },
+  {
+    "character": "🩳",
+    "description": ":shorts:"
+  },
+  {
+    "character": "🚿",
+    "description": ":shower:"
+  },
+  {
+    "character": "🦐",
+    "description": ":shrimp:"
+  },
+  {
+    "character": "🤷",
+    "description": ":shrug:"
+  },
+  {
+    "character": "🤫",
+    "description": ":shushing_face:"
+  },
+  {
+    "character": "🇸‍🇱",
+    "description": ":sierra_leone:"
+  },
+  {
+    "character": "📶",
+    "description": ":signal_strength:"
+  },
+  {
+    "character": "🇸‍🇬",
+    "description": ":singapore:"
+  },
+  {
+    "character": "🧑‍🎤",
+    "description": ":singer:"
+  },
+  {
+    "character": "🇸‍🇽",
+    "description": ":sint_maarten:"
+  },
+  {
+    "character": "6‍⃣",
+    "description": ":six:"
+  },
+  {
+    "character": "🔯",
+    "description": ":six_pointed_star:"
+  },
+  {
+    "character": "🛹",
+    "description": ":skateboard:"
+  },
+  {
+    "character": "🎿",
+    "description": ":ski:"
+  },
+  {
+    "character": "⛷",
+    "description": ":skier:"
+  },
+  {
+    "character": "💀",
+    "description": ":skull:"
+  },
+  {
+    "character": "☠",
+    "description": ":skull_and_crossbones:"
+  },
+  {
+    "character": "🦨",
+    "description": ":skunk:"
+  },
+  {
+    "character": "🛷",
+    "description": ":sled:"
+  },
+  {
+    "character": "😴",
+    "description": ":sleeping:"
+  },
+  {
+    "character": "🛌",
+    "description": ":sleeping_bed:"
+  },
+  {
+    "character": "😪",
+    "description": ":sleepy:"
+  },
+  {
+    "character": "🙁",
+    "description": ":slightly_frowning_face:"
+  },
+  {
+    "character": "🙂",
+    "description": ":slightly_smiling_face:"
+  },
+  {
+    "character": "🎰",
+    "description": ":slot_machine:"
+  },
+  {
+    "character": "🦥",
+    "description": ":sloth:"
+  },
+  {
+    "character": "🇸‍🇰",
+    "description": ":slovakia:"
+  },
+  {
+    "character": "🇸‍🇮",
+    "description": ":slovenia:"
+  },
+  {
+    "character": "🛩",
+    "description": ":small_airplane:"
+  },
+  {
+    "character": "🔹",
+    "description": ":small_blue_diamond:"
+  },
+  {
+    "character": "🔸",
+    "description": ":small_orange_diamond:"
+  },
+  {
+    "character": "🔺",
+    "description": ":small_red_triangle:"
+  },
+  {
+    "character": "🔻",
+    "description": ":small_red_triangle_down:"
+  },
+  {
+    "character": "😄",
+    "description": ":smile:"
+  },
+  {
+    "character": "😸",
+    "description": ":smile_cat:"
+  },
+  {
+    "character": "😃",
+    "description": ":smiley:"
+  },
+  {
+    "character": "😺",
+    "description": ":smiley_cat:"
+  },
+  {
+    "character": "🥰",
+    "description": ":smiling_face_with_three_hearts:"
+  },
+  {
+    "character": "😈",
+    "description": ":smiling_imp:"
+  },
+  {
+    "character": "😏",
+    "description": ":smirk:"
+  },
+  {
+    "character": "😼",
+    "description": ":smirk_cat:"
+  },
+  {
+    "character": "🚬",
+    "description": ":smoking:"
+  },
+  {
+    "character": "🐌",
+    "description": ":snail:"
+  },
+  {
+    "character": "🐍",
+    "description": ":snake:"
+  },
+  {
+    "character": "🤧",
+    "description": ":sneezing_face:"
+  },
+  {
+    "character": "🏂",
+    "description": ":snowboarder:"
+  },
+  {
+    "character": "❄",
+    "description": ":snowflake:"
+  },
+  {
+    "character": "⛄",
+    "description": ":snowman:"
+  },
+  {
+    "character": "☃",
+    "description": ":snowman_with_snow:"
+  },
+  {
+    "character": "🧼",
+    "description": ":soap:"
+  },
+  {
+    "character": "😭",
+    "description": ":sob:"
+  },
+  {
+    "character": "⚽",
+    "description": ":soccer:"
+  },
+  {
+    "character": "🧦",
+    "description": ":socks:"
+  },
+  {
+    "character": "🥎",
+    "description": ":softball:"
+  },
+  {
+    "character": "🇸‍🇧",
+    "description": ":solomon_islands:"
+  },
+  {
+    "character": "🇸‍🇴",
+    "description": ":somalia:"
+  },
+  {
+    "character": "🔜",
+    "description": ":soon:"
+  },
+  {
+    "character": "🆘",
+    "description": ":sos:"
+  },
+  {
+    "character": "🔉",
+    "description": ":sound:"
+  },
+  {
+    "character": "🇿‍🇦",
+    "description": ":south_africa:"
+  },
+  {
+    "character": "🇬‍🇸",
+    "description": ":south_georgia_south_sandwich_islands:"
+  },
+  {
+    "character": "🇸‍🇸",
+    "description": ":south_sudan:"
+  },
+  {
+    "character": "👾",
+    "description": ":space_invader:"
+  },
+  {
+    "character": "♠",
+    "description": ":spades:"
+  },
+  {
+    "character": "🍝",
+    "description": ":spaghetti:"
+  },
+  {
+    "character": "❇",
+    "description": ":sparkle:"
+  },
+  {
+    "character": "🎇",
+    "description": ":sparkler:"
+  },
+  {
+    "character": "✨",
+    "description": ":sparkles:"
+  },
+  {
+    "character": "💖",
+    "description": ":sparkling_heart:"
+  },
+  {
+    "character": "🙊",
+    "description": ":speak_no_evil:"
+  },
+  {
+    "character": "🔈",
+    "description": ":speaker:"
+  },
+  {
+    "character": "🗣",
+    "description": ":speaking_head:"
+  },
+  {
+    "character": "💬",
+    "description": ":speech_balloon:"
+  },
+  {
+    "character": "🚤",
+    "description": ":speedboat:"
+  },
+  {
+    "character": "🕷",
+    "description": ":spider:"
+  },
+  {
+    "character": "🕸",
+    "description": ":spider_web:"
+  },
+  {
+    "character": "🗓",
+    "description": ":spiral_calendar:"
+  },
+  {
+    "character": "🗒",
+    "description": ":spiral_notepad:"
+  },
+  {
+    "character": "🧽",
+    "description": ":sponge:"
+  },
+  {
+    "character": "🥄",
+    "description": ":spoon:"
+  },
+  {
+    "character": "🦑",
+    "description": ":squid:"
+  },
+  {
+    "character": "🇱‍🇰",
+    "description": ":sri_lanka:"
+  },
+  {
+    "character": "🇧‍🇱",
+    "description": ":st_barthelemy:"
+  },
+  {
+    "character": "🇸‍🇭",
+    "description": ":st_helena:"
+  },
+  {
+    "character": "🇰‍🇳",
+    "description": ":st_kitts_nevis:"
+  },
+  {
+    "character": "🇱‍🇨",
+    "description": ":st_lucia:"
+  },
+  {
+    "character": "🇲‍🇫",
+    "description": ":st_martin:"
+  },
+  {
+    "character": "🇵‍🇲",
+    "description": ":st_pierre_miquelon:"
+  },
+  {
+    "character": "🇻‍🇨",
+    "description": ":st_vincent_grenadines:"
+  },
+  {
+    "character": "🏟",
+    "description": ":stadium:"
+  },
+  {
+    "character": "🧍‍♂",
+    "description": ":standing_man:"
+  },
+  {
+    "character": "🧍",
+    "description": ":standing_person:"
+  },
+  {
+    "character": "🧍‍♀",
+    "description": ":standing_woman:"
+  },
+  {
+    "character": "⭐",
+    "description": ":star:"
+  },
+  {
+    "character": "🌟",
+    "description": ":star2:"
+  },
+  {
+    "character": "☪",
+    "description": ":star_and_crescent:"
+  },
+  {
+    "character": "✡",
+    "description": ":star_of_david:"
+  },
+  {
+    "character": "🤩",
+    "description": ":star_struck:"
+  },
+  {
+    "character": "🌠",
+    "description": ":stars:"
+  },
+  {
+    "character": "🚉",
+    "description": ":station:"
+  },
+  {
+    "character": "🗽",
+    "description": ":statue_of_liberty:"
+  },
+  {
+    "character": "🚂",
+    "description": ":steam_locomotive:"
+  },
+  {
+    "character": "🩺",
+    "description": ":stethoscope:"
+  },
+  {
+    "character": "🍲",
+    "description": ":stew:"
+  },
+  {
+    "character": "⏹",
+    "description": ":stop_button:"
+  },
+  {
+    "character": "🛑",
+    "description": ":stop_sign:"
+  },
+  {
+    "character": "⏱",
+    "description": ":stopwatch:"
+  },
+  {
+    "character": "📏",
+    "description": ":straight_ruler:"
+  },
+  {
+    "character": "🍓",
+    "description": ":strawberry:"
+  },
+  {
+    "character": "😛",
+    "description": ":stuck_out_tongue:"
+  },
+  {
+    "character": "😝",
+    "description": ":stuck_out_tongue_closed_eyes:"
+  },
+  {
+    "character": "😜",
+    "description": ":stuck_out_tongue_winking_eye:"
+  },
+  {
+    "character": "🧑‍🎓",
+    "description": ":student:"
+  },
+  {
+    "character": "🎙",
+    "description": ":studio_microphone:"
+  },
+  {
+    "character": "🥙",
+    "description": ":stuffed_flatbread:"
+  },
+  {
+    "character": "🇸‍🇩",
+    "description": ":sudan:"
+  },
+  {
+    "character": "🌥",
+    "description": ":sun_behind_large_cloud:"
+  },
+  {
+    "character": "🌦",
+    "description": ":sun_behind_rain_cloud:"
+  },
+  {
+    "character": "🌤",
+    "description": ":sun_behind_small_cloud:"
+  },
+  {
+    "character": "🌞",
+    "description": ":sun_with_face:"
+  },
+  {
+    "character": "🌻",
+    "description": ":sunflower:"
+  },
+  {
+    "character": "😎",
+    "description": ":sunglasses:"
+  },
+  {
+    "character": "☀",
+    "description": ":sunny:"
+  },
+  {
+    "character": "🌅",
+    "description": ":sunrise:"
+  },
+  {
+    "character": "🌄",
+    "description": ":sunrise_over_mountains:"
+  },
+  {
+    "character": "🦸",
+    "description": ":superhero:"
+  },
+  {
+    "character": "🦸‍♂",
+    "description": ":superhero_man:"
+  },
+  {
+    "character": "🦸‍♀",
+    "description": ":superhero_woman:"
+  },
+  {
+    "character": "🦹",
+    "description": ":supervillain:"
+  },
+  {
+    "character": "🦹‍♂",
+    "description": ":supervillain_man:"
+  },
+  {
+    "character": "🦹‍♀",
+    "description": ":supervillain_woman:"
+  },
+  {
+    "character": "🏄",
+    "description": ":surfer:"
+  },
+  {
+    "character": "🏄‍♂",
+    "description": ":surfing_man:"
+  },
+  {
+    "character": "🏄‍♀",
+    "description": ":surfing_woman:"
+  },
+  {
+    "character": "🇸‍🇷",
+    "description": ":suriname:"
+  },
+  {
+    "character": "🍣",
+    "description": ":sushi:"
+  },
+  {
+    "character": "🚟",
+    "description": ":suspension_railway:"
+  },
+  {
+    "character": "🇸‍🇯",
+    "description": ":svalbard_jan_mayen:"
+  },
+  {
+    "character": "🦢",
+    "description": ":swan:"
+  },
+  {
+    "character": "🇸‍🇿",
+    "description": ":swaziland:"
+  },
+  {
+    "character": "😓",
+    "description": ":sweat:"
+  },
+  {
+    "character": "💦",
+    "description": ":sweat_drops:"
+  },
+  {
+    "character": "😅",
+    "description": ":sweat_smile:"
+  },
+  {
+    "character": "🇸‍🇪",
+    "description": ":sweden:"
+  },
+  {
+    "character": "🍠",
+    "description": ":sweet_potato:"
+  },
+  {
+    "character": "🩲",
+    "description": ":swim_brief:"
+  },
+  {
+    "character": "🏊",
+    "description": ":swimmer:"
+  },
+  {
+    "character": "🏊‍♂",
+    "description": ":swimming_man:"
+  },
+  {
+    "character": "🏊‍♀",
+    "description": ":swimming_woman:"
+  },
+  {
+    "character": "🇨‍🇭",
+    "description": ":switzerland:"
+  },
+  {
+    "character": "🔣",
+    "description": ":symbols:"
+  },
+  {
+    "character": "🕍",
+    "description": ":synagogue:"
+  },
+  {
+    "character": "🇸‍🇾",
+    "description": ":syria:"
+  },
+  {
+    "character": "💉",
+    "description": ":syringe:"
+  },
+  {
+    "character": "🦖",
+    "description": ":t-rex:"
+  },
+  {
+    "character": "🌮",
+    "description": ":taco:"
+  },
+  {
+    "character": "🎉",
+    "description": ":tada:"
+  },
+  {
+    "character": "🇹‍🇼",
+    "description": ":taiwan:"
+  },
+  {
+    "character": "🇹‍🇯",
+    "description": ":tajikistan:"
+  },
+  {
+    "character": "🥡",
+    "description": ":takeout_box:"
+  },
+  {
+    "character": "🎋",
+    "description": ":tanabata_tree:"
+  },
+  {
+    "character": "🍊",
+    "description": ":tangerine:"
+  },
+  {
+    "character": "🇹‍🇿",
+    "description": ":tanzania:"
+  },
+  {
+    "character": "♉",
+    "description": ":taurus:"
+  },
+  {
+    "character": "🚕",
+    "description": ":taxi:"
+  },
+  {
+    "character": "🍵",
+    "description": ":tea:"
+  },
+  {
+    "character": "🧑‍🏫",
+    "description": ":teacher:"
+  },
+  {
+    "character": "🧑‍💻",
+    "description": ":technologist:"
+  },
+  {
+    "character": "🧸",
+    "description": ":teddy_bear:"
+  },
+  {
+    "character": "☎",
+    "description": ":telephone:"
+  },
+  {
+    "character": "📞",
+    "description": ":telephone_receiver:"
+  },
+  {
+    "character": "🔭",
+    "description": ":telescope:"
+  },
+  {
+    "character": "🎾",
+    "description": ":tennis:"
+  },
+  {
+    "character": "⛺",
+    "description": ":tent:"
+  },
+  {
+    "character": "🧪",
+    "description": ":test_tube:"
+  },
+  {
+    "character": "🇹‍🇭",
+    "description": ":thailand:"
+  },
+  {
+    "character": "🌡",
+    "description": ":thermometer:"
+  },
+  {
+    "character": "🤔",
+    "description": ":thinking:"
+  },
+  {
+    "character": "💭",
+    "description": ":thought_balloon:"
+  },
+  {
+    "character": "🧵",
+    "description": ":thread:"
+  },
+  {
+    "character": "3‍⃣",
+    "description": ":three:"
+  },
+  {
+    "character": "👎",
+    "description": ":thumbsdown:"
+  },
+  {
+    "character": "👍",
+    "description": ":thumbsup:"
+  },
+  {
+    "character": "🎫",
+    "description": ":ticket:"
+  },
+  {
+    "character": "🎟",
+    "description": ":tickets:"
+  },
+  {
+    "character": "🐯",
+    "description": ":tiger:"
+  },
+  {
+    "character": "🐅",
+    "description": ":tiger2:"
+  },
+  {
+    "character": "⏲",
+    "description": ":timer_clock:"
+  },
+  {
+    "character": "🇹‍🇱",
+    "description": ":timor_leste:"
+  },
+  {
+    "character": "💁‍♂",
+    "description": ":tipping_hand_man:"
+  },
+  {
+    "character": "💁",
+    "description": ":tipping_hand_person:"
+  },
+  {
+    "character": "💁‍♀",
+    "description": ":tipping_hand_woman:"
+  },
+  {
+    "character": "😫",
+    "description": ":tired_face:"
+  },
+  {
+    "character": "™",
+    "description": ":tm:"
+  },
+  {
+    "character": "🇹‍🇬",
+    "description": ":togo:"
+  },
+  {
+    "character": "🚽",
+    "description": ":toilet:"
+  },
+  {
+    "character": "🇹‍🇰",
+    "description": ":tokelau:"
+  },
+  {
+    "character": "🗼",
+    "description": ":tokyo_tower:"
+  },
+  {
+    "character": "🍅",
+    "description": ":tomato:"
+  },
+  {
+    "character": "🇹‍🇴",
+    "description": ":tonga:"
+  },
+  {
+    "character": "👅",
+    "description": ":tongue:"
+  },
+  {
+    "character": "🧰",
+    "description": ":toolbox:"
+  },
+  {
+    "character": "🦷",
+    "description": ":tooth:"
+  },
+  {
+    "character": "🔝",
+    "description": ":top:"
+  },
+  {
+    "character": "🎩",
+    "description": ":tophat:"
+  },
+  {
+    "character": "🌪",
+    "description": ":tornado:"
+  },
+  {
+    "character": "🇹‍🇷",
+    "description": ":tr:"
+  },
+  {
+    "character": "🖲",
+    "description": ":trackball:"
+  },
+  {
+    "character": "🚜",
+    "description": ":tractor:"
+  },
+  {
+    "character": "🚥",
+    "description": ":traffic_light:"
+  },
+  {
+    "character": "🚋",
+    "description": ":train:"
+  },
+  {
+    "character": "🚆",
+    "description": ":train2:"
+  },
+  {
+    "character": "🚊",
+    "description": ":tram:"
+  },
+  {
+    "character": "🚩",
+    "description": ":triangular_flag_on_post:"
+  },
+  {
+    "character": "📐",
+    "description": ":triangular_ruler:"
+  },
+  {
+    "character": "🔱",
+    "description": ":trident:"
+  },
+  {
+    "character": "🇹‍🇹",
+    "description": ":trinidad_tobago:"
+  },
+  {
+    "character": "🇹‍🇦",
+    "description": ":tristan_da_cunha:"
+  },
+  {
+    "character": "😤",
+    "description": ":triumph:"
+  },
+  {
+    "character": "🚎",
+    "description": ":trolleybus:"
+  },
+  {
+    "character": "🏆",
+    "description": ":trophy:"
+  },
+  {
+    "character": "🍹",
+    "description": ":tropical_drink:"
+  },
+  {
+    "character": "🐠",
+    "description": ":tropical_fish:"
+  },
+  {
+    "character": "🚚",
+    "description": ":truck:"
+  },
+  {
+    "character": "🎺",
+    "description": ":trumpet:"
+  },
+  {
+    "character": "👕",
+    "description": ":tshirt:"
+  },
+  {
+    "character": "🌷",
+    "description": ":tulip:"
+  },
+  {
+    "character": "🥃",
+    "description": ":tumbler_glass:"
+  },
+  {
+    "character": "🇹‍🇳",
+    "description": ":tunisia:"
+  },
+  {
+    "character": "🦃",
+    "description": ":turkey:"
+  },
+  {
+    "character": "🇹‍🇲",
+    "description": ":turkmenistan:"
+  },
+  {
+    "character": "🇹‍🇨",
+    "description": ":turks_caicos_islands:"
+  },
+  {
+    "character": "🐢",
+    "description": ":turtle:"
+  },
+  {
+    "character": "🇹‍🇻",
+    "description": ":tuvalu:"
+  },
+  {
+    "character": "📺",
+    "description": ":tv:"
+  },
+  {
+    "character": "🔀",
+    "description": ":twisted_rightwards_arrows:"
+  },
+  {
+    "character": "2‍⃣",
+    "description": ":two:"
+  },
+  {
+    "character": "💕",
+    "description": ":two_hearts:"
+  },
+  {
+    "character": "👬",
+    "description": ":two_men_holding_hands:"
+  },
+  {
+    "character": "👭",
+    "description": ":two_women_holding_hands:"
+  },
+  {
+    "character": "🈹",
+    "description": ":u5272:"
+  },
+  {
+    "character": "🈴",
+    "description": ":u5408:"
+  },
+  {
+    "character": "🈺",
+    "description": ":u55b6:"
+  },
+  {
+    "character": "🈯",
+    "description": ":u6307:"
+  },
+  {
+    "character": "🈷",
+    "description": ":u6708:"
+  },
+  {
+    "character": "🈶",
+    "description": ":u6709:"
+  },
+  {
+    "character": "🈵",
+    "description": ":u6e80:"
+  },
+  {
+    "character": "🈚",
+    "description": ":u7121:"
+  },
+  {
+    "character": "🈸",
+    "description": ":u7533:"
+  },
+  {
+    "character": "🈲",
+    "description": ":u7981:"
+  },
+  {
+    "character": "🈳",
+    "description": ":u7a7a:"
+  },
+  {
+    "character": "🇺‍🇬",
+    "description": ":uganda:"
+  },
+  {
+    "character": "🇬‍🇧",
+    "description": ":uk:"
+  },
+  {
+    "character": "🇺‍🇦",
+    "description": ":ukraine:"
+  },
+  {
+    "character": "☔",
+    "description": ":umbrella:"
+  },
+  {
+    "character": "😒",
+    "description": ":unamused:"
+  },
+  {
+    "character": "🔞",
+    "description": ":underage:"
+  },
+  {
+    "character": "🦄",
+    "description": ":unicorn:"
+  },
+  {
+    "character": "🇦‍🇪",
+    "description": ":united_arab_emirates:"
+  },
+  {
+    "character": "🇺‍🇳",
+    "description": ":united_nations:"
+  },
+  {
+    "character": "🔓",
+    "description": ":unlock:"
+  },
+  {
+    "character": "🆙",
+    "description": ":up:"
+  },
+  {
+    "character": "🙃",
+    "description": ":upside_down_face:"
+  },
+  {
+    "character": "🇺‍🇾",
+    "description": ":uruguay:"
+  },
+  {
+    "character": "🇺‍🇸",
+    "description": ":us:"
+  },
+  {
+    "character": "🇺‍🇲",
+    "description": ":us_outlying_islands:"
+  },
+  {
+    "character": "🇻‍🇮",
+    "description": ":us_virgin_islands:"
+  },
+  {
+    "character": "🇺‍🇿",
+    "description": ":uzbekistan:"
+  },
+  {
+    "character": "✌",
+    "description": ":v:"
+  },
+  {
+    "character": "🧛",
+    "description": ":vampire:"
+  },
+  {
+    "character": "🧛‍♂",
+    "description": ":vampire_man:"
+  },
+  {
+    "character": "🧛‍♀",
+    "description": ":vampire_woman:"
+  },
+  {
+    "character": "🇻‍🇺",
+    "description": ":vanuatu:"
+  },
+  {
+    "character": "🇻‍🇦",
+    "description": ":vatican_city:"
+  },
+  {
+    "character": "🇻‍🇪",
+    "description": ":venezuela:"
+  },
+  {
+    "character": "🚦",
+    "description": ":vertical_traffic_light:"
+  },
+  {
+    "character": "📼",
+    "description": ":vhs:"
+  },
+  {
+    "character": "📳",
+    "description": ":vibration_mode:"
+  },
+  {
+    "character": "📹",
+    "description": ":video_camera:"
+  },
+  {
+    "character": "🎮",
+    "description": ":video_game:"
+  },
+  {
+    "character": "🇻‍🇳",
+    "description": ":vietnam:"
+  },
+  {
+    "character": "🎻",
+    "description": ":violin:"
+  },
+  {
+    "character": "♍",
+    "description": ":virgo:"
+  },
+  {
+    "character": "🌋",
+    "description": ":volcano:"
+  },
+  {
+    "character": "🏐",
+    "description": ":volleyball:"
+  },
+  {
+    "character": "🤮",
+    "description": ":vomiting_face:"
+  },
+  {
+    "character": "🆚",
+    "description": ":vs:"
+  },
+  {
+    "character": "🖖",
+    "description": ":vulcan_salute:"
+  },
+  {
+    "character": "🧇",
+    "description": ":waffle:"
+  },
+  {
+    "character": "🏴‍󠁧‍󠁢‍󠁷‍󠁬‍󠁳‍󠁿",
+    "description": ":wales:"
+  },
+  {
+    "character": "🚶",
+    "description": ":walking:"
+  },
+  {
+    "character": "🚶‍♂",
+    "description": ":walking_man:"
+  },
+  {
+    "character": "🚶‍♀",
+    "description": ":walking_woman:"
+  },
+  {
+    "character": "🇼‍🇫",
+    "description": ":wallis_futuna:"
+  },
+  {
+    "character": "🌘",
+    "description": ":waning_crescent_moon:"
+  },
+  {
+    "character": "🌖",
+    "description": ":waning_gibbous_moon:"
+  },
+  {
+    "character": "⚠",
+    "description": ":warning:"
+  },
+  {
+    "character": "🗑",
+    "description": ":wastebasket:"
+  },
+  {
+    "character": "⌚",
+    "description": ":watch:"
+  },
+  {
+    "character": "🐃",
+    "description": ":water_buffalo:"
+  },
+  {
+    "character": "🤽",
+    "description": ":water_polo:"
+  },
+  {
+    "character": "🍉",
+    "description": ":watermelon:"
+  },
+  {
+    "character": "👋",
+    "description": ":wave:"
+  },
+  {
+    "character": "〰",
+    "description": ":wavy_dash:"
+  },
+  {
+    "character": "🌒",
+    "description": ":waxing_crescent_moon:"
+  },
+  {
+    "character": "🌔",
+    "description": ":waxing_gibbous_moon:"
+  },
+  {
+    "character": "🚾",
+    "description": ":wc:"
+  },
+  {
+    "character": "😩",
+    "description": ":weary:"
+  },
+  {
+    "character": "💒",
+    "description": ":wedding:"
+  },
+  {
+    "character": "🏋",
+    "description": ":weight_lifting:"
+  },
+  {
+    "character": "🏋‍♂",
+    "description": ":weight_lifting_man:"
+  },
+  {
+    "character": "🏋‍♀",
+    "description": ":weight_lifting_woman:"
+  },
+  {
+    "character": "🇪‍🇭",
+    "description": ":western_sahara:"
+  },
+  {
+    "character": "🐳",
+    "description": ":whale:"
+  },
+  {
+    "character": "🐋",
+    "description": ":whale2:"
+  },
+  {
+    "character": "☸",
+    "description": ":wheel_of_dharma:"
+  },
+  {
+    "character": "♿",
+    "description": ":wheelchair:"
+  },
+  {
+    "character": "✅",
+    "description": ":white_check_mark:"
+  },
+  {
+    "character": "⚪",
+    "description": ":white_circle:"
+  },
+  {
+    "character": "🏳",
+    "description": ":white_flag:"
+  },
+  {
+    "character": "💮",
+    "description": ":white_flower:"
+  },
+  {
+    "character": "👨‍🦳",
+    "description": ":white_haired_man:"
+  },
+  {
+    "character": "👩‍🦳",
+    "description": ":white_haired_woman:"
+  },
+  {
+    "character": "🤍",
+    "description": ":white_heart:"
+  },
+  {
+    "character": "⬜",
+    "description": ":white_large_square:"
+  },
+  {
+    "character": "◽",
+    "description": ":white_medium_small_square:"
+  },
+  {
+    "character": "◻",
+    "description": ":white_medium_square:"
+  },
+  {
+    "character": "▫",
+    "description": ":white_small_square:"
+  },
+  {
+    "character": "🔳",
+    "description": ":white_square_button:"
+  },
+  {
+    "character": "🥀",
+    "description": ":wilted_flower:"
+  },
+  {
+    "character": "🎐",
+    "description": ":wind_chime:"
+  },
+  {
+    "character": "🌬",
+    "description": ":wind_face:"
+  },
+  {
+    "character": "🍷",
+    "description": ":wine_glass:"
+  },
+  {
+    "character": "😉",
+    "description": ":wink:"
+  },
+  {
+    "character": "🐺",
+    "description": ":wolf:"
+  },
+  {
+    "character": "👩",
+    "description": ":woman:"
+  },
+  {
+    "character": "👩‍🎨",
+    "description": ":woman_artist:"
+  },
+  {
+    "character": "👩‍🚀",
+    "description": ":woman_astronaut:"
+  },
+  {
+    "character": "🤸‍♀",
+    "description": ":woman_cartwheeling:"
+  },
+  {
+    "character": "👩‍🍳",
+    "description": ":woman_cook:"
+  },
+  {
+    "character": "💃",
+    "description": ":woman_dancing:"
+  },
+  {
+    "character": "🤦‍♀",
+    "description": ":woman_facepalming:"
+  },
+  {
+    "character": "👩‍🏭",
+    "description": ":woman_factory_worker:"
+  },
+  {
+    "character": "👩‍🌾",
+    "description": ":woman_farmer:"
+  },
+  {
+    "character": "👩‍🚒",
+    "description": ":woman_firefighter:"
+  },
+  {
+    "character": "👩‍⚕",
+    "description": ":woman_health_worker:"
+  },
+  {
+    "character": "👩‍🦽",
+    "description": ":woman_in_manual_wheelchair:"
+  },
+  {
+    "character": "👩‍🦼",
+    "description": ":woman_in_motorized_wheelchair:"
+  },
+  {
+    "character": "👩‍⚖",
+    "description": ":woman_judge:"
+  },
+  {
+    "character": "🤹‍♀",
+    "description": ":woman_juggling:"
+  },
+  {
+    "character": "👩‍🔧",
+    "description": ":woman_mechanic:"
+  },
+  {
+    "character": "👩‍💼",
+    "description": ":woman_office_worker:"
+  },
+  {
+    "character": "👩‍✈",
+    "description": ":woman_pilot:"
+  },
+  {
+    "character": "🤾‍♀",
+    "description": ":woman_playing_handball:"
+  },
+  {
+    "character": "🤽‍♀",
+    "description": ":woman_playing_water_polo:"
+  },
+  {
+    "character": "👩‍🔬",
+    "description": ":woman_scientist:"
+  },
+  {
+    "character": "🤷‍♀",
+    "description": ":woman_shrugging:"
+  },
+  {
+    "character": "👩‍🎤",
+    "description": ":woman_singer:"
+  },
+  {
+    "character": "👩‍🎓",
+    "description": ":woman_student:"
+  },
+  {
+    "character": "👩‍🏫",
+    "description": ":woman_teacher:"
+  },
+  {
+    "character": "👩‍💻",
+    "description": ":woman_technologist:"
+  },
+  {
+    "character": "🧕",
+    "description": ":woman_with_headscarf:"
+  },
+  {
+    "character": "👩‍🦯",
+    "description": ":woman_with_probing_cane:"
+  },
+  {
+    "character": "👳‍♀",
+    "description": ":woman_with_turban:"
+  },
+  {
+    "character": "👚",
+    "description": ":womans_clothes:"
+  },
+  {
+    "character": "👒",
+    "description": ":womans_hat:"
+  },
+  {
+    "character": "🤼‍♀",
+    "description": ":women_wrestling:"
+  },
+  {
+    "character": "🚺",
+    "description": ":womens:"
+  },
+  {
+    "character": "🥴",
+    "description": ":woozy_face:"
+  },
+  {
+    "character": "🗺",
+    "description": ":world_map:"
+  },
+  {
+    "character": "😟",
+    "description": ":worried:"
+  },
+  {
+    "character": "🔧",
+    "description": ":wrench:"
+  },
+  {
+    "character": "🤼",
+    "description": ":wrestling:"
+  },
+  {
+    "character": "✍",
+    "description": ":writing_hand:"
+  },
+  {
+    "character": "❌",
+    "description": ":x:"
+  },
+  {
+    "character": "🧶",
+    "description": ":yarn:"
+  },
+  {
+    "character": "🥱",
+    "description": ":yawning_face:"
+  },
+  {
+    "character": "🟡",
+    "description": ":yellow_circle:"
+  },
+  {
+    "character": "💛",
+    "description": ":yellow_heart:"
+  },
+  {
+    "character": "🟨",
+    "description": ":yellow_square:"
+  },
+  {
+    "character": "🇾‍🇪",
+    "description": ":yemen:"
+  },
+  {
+    "character": "💴",
+    "description": ":yen:"
+  },
+  {
+    "character": "☯",
+    "description": ":yin_yang:"
+  },
+  {
+    "character": "🪀",
+    "description": ":yo_yo:"
+  },
+  {
+    "character": "😋",
+    "description": ":yum:"
+  },
+  {
+    "character": "🇿‍🇲",
+    "description": ":zambia:"
+  },
+  {
+    "character": "🤪",
+    "description": ":zany_face:"
+  },
+  {
+    "character": "⚡",
+    "description": ":zap:"
+  },
+  {
+    "character": "🦓",
+    "description": ":zebra:"
+  },
+  {
+    "character": "0‍⃣",
+    "description": ":zero:"
+  },
+  {
+    "character": "🇿‍🇼",
+    "description": ":zimbabwe:"
+  },
+  {
+    "character": "🤐",
+    "description": ":zipper_mouth_face:"
+  },
+  {
+    "character": "🧟",
+    "description": ":zombie:"
+  },
+  {
+    "character": "🧟‍♂",
+    "description": ":zombie_man:"
+  },
+  {
+    "character": "🧟‍♀",
+    "description": ":zombie_woman:"
+  },
+  {
+    "character": "💤",
+    "description": ":zzz:"
+  }
+]
