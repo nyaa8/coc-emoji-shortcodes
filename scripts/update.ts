@@ -11,9 +11,10 @@ async function getGithubEmojis(): Promise<EmojiSuggestion[]> {
 		const emojiURL = json[shortCode];
 
 		if (!emojiURL.includes('/unicode')) continue;
+
 		emojiSuggestions.push({
 			character: parseEmoji(emojiURL),
-			description: `:${shortCode}:`
+			description: shortCode
 		});
 	}
 
@@ -28,5 +29,5 @@ function parseEmoji(e: string) {
 		.join('\u200d');
 }
 
-Deno.writeTextFileSync('src/emoji.txt', JSON.stringify(await getGithubEmojis(), null, 2));
+Deno.writeTextFileSync('src/emoji.json', JSON.stringify(await getGithubEmojis(), null, 2));
 

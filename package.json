@@ -1,0 +1,82 @@
+{
+	"name": "coc-emoji-shortcodes",
+	"version": "1.0.0",
+	"description": "emoji' shortcodes source for coc.nvim",
+	"main": "src/index.js",
+	"scripts": {
+		"update": "deno run --allow-write --allow-net scripts/update.ts",
+		"test": "eslint src/*.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yunree/coc-emoji-shortcodes.git"
+	},
+	"keywords": [
+		"coc.nvim",
+		"emoji",
+		"shortcodes"
+	],
+	"author": "yunree <contrib@yunree.net>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/yunree/coc-emoji-shortcodes/issues"
+	},
+	"homepage": "https://github.com/yunree/coc-emoji-shortcodes#readme",
+	"engines": {
+		"coc": ">=0.0.57"
+	},
+	"activationEvents": [
+		"*"
+	],
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"properties": {
+				"coc.source.emoji-shortcodes.enable": {
+					"type": "boolean",
+					"default": true
+				},
+				"coc.source.emoji-shortcodes.triggerCharacters": {
+					"type": "array",
+					"default": [
+						":"
+					],
+					"items": {
+						"type": "string"
+					}
+				},
+				"coc.source.emoji-shortcodes.priority": {
+					"type": "integer",
+					"default": 3
+				},
+				"coc.source.emoji-shortcodes.shortcut": {
+					"type": "string",
+					"default": "ES"
+				},
+				"coc.source.emoji-shortcodes.disableSyntaxes": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					}
+				},
+				"coc.source.emoji-shortcodes.filetypes": {
+					"type": [
+						"array",
+						"null"
+					],
+					"default": [
+						"markdown"
+					],
+					"items": {
+						"type": "string"
+					}
+				}
+			}
+		}
+	},
+	"devDependencies": {
+		"coc.nvim": "0.0.79",
+		"eslint": "^7.10.0"
+	}
+}
